@@ -4,22 +4,18 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a4f994e4b096b0a7d70d6a-1772706630761?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
     <lcn>602</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a4f82ce4b0757d0d8eaa39-1772595334587?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
     <lcn>603</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a0dd2ee4b016fee8546d2b-1772604272233?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
     <lcn>604</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a1180de4b096b0a7d70ce3-1772581285095?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
@@ -29,54 +25,5 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-4" start="20260305215006 +0000" stop="20260306043500 +0000">
-    <title>Australian Grand Prix Day 2</title>
-    <desc>Follow all the action from Day 2 as the Australian GP continues.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260306043500 +0000" stop="20260306063500 +0000">
-    <title>Australian Grand Prix</title>
-    <desc>Anticipation builds ahead of the first lights out of the season when the second practice session gets underway.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260306063500 +0000" stop="20260306091506 +0000">
-    <title>Australian Grand Prix Day 2</title>
-    <desc>Follow all the action from Day 2 as the Australian GP continues.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260306214500 +0000" stop="20260306234500 +0000">
-    <title>Australian Grand Prix Day 3</title>
-    <desc>Follow all the action from Day 3 as the Australian GP continues.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260307011000 +0000" stop="20260307031000 +0000">
-    <title>Australian Grand Prix</title>
-    <desc>As the third and final practice session gets underway, it’s the last chance for the drivers to get their handle on the Albert Park Circuit ahead of qualifying.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260307041000 +0000" stop="20260307061000 +0000">
-    <title>Australian Grand Prix</title>
-    <desc>Pole position is up for grabs as opening qualifying session of the 2026 Formula 1 season gets underway.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260306060000 +0000" stop="20260306080000 +0000">
-    <title>Warriors vs Sydney Roosters</title>
-    <desc>Daly Cherry-Evans heads across the ditch in front of another sell-out crowd in Auckland for his Roosters debut.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260307060000 +0000" stop="20260307080000 +0000">
-    <title>Cronulla vs Gold Coast Titans</title>
-    <desc>The Titans begin a new era under Josh Hannay. The Sharks have won three straight at home in this rivalry.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260306080000 +0000" stop="20260306100000 +0000">
-    <title>Gold Coast Suns vs Geelong Cats</title>
-    <desc>The Cats quest for redemption kicks off against the new-look Suns.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-2" start="20260307040000 +0000" stop="20260307060000 +0000">
-    <title>Greater Western Sydney Giants vs Hawthorn Hawks</title>
-    <desc>The Giants host the Hawks in a massive Opening Round clash at Engie Stadium.</desc>
-    <category>Sport</category>
-  </programme>
+
 </tv>
