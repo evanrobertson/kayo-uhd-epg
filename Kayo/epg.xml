@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+  <channel id="kayo-uhd-1">
+    <display-name>Kayo 4K UHD 1 (Footy)</display-name>
+  </channel>
+  <channel id="kayo-uhd-2">
+    <display-name>Kayo 4K UHD 2 (Footy)</display-name>
+  </channel>
+  <channel id="kayo-uhd-3">
+    <display-name>Kayo 4K UHD 3 (League)</display-name>
+  </channel>
+  <channel id="kayo-uhd-4">
+    <display-name>Kayo 4K UHD 4 (F1)</display-name>
+  </channel>
+  <channel id="kayo-uhd-5">
+    <display-name>Kayo 4K UHD 5 (Netball)</display-name>
+  </channel>
+  <channel id="kayo-uhd-6">
+    <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
+  </channel>
+
+</tv>
