@@ -19,7 +19,7 @@
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
     <lcn>604</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a11602e4b0b55fb4389730-1772419028356?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a11892e4b0d87cc4eed4da-1772581286517?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
@@ -30,7 +30,7 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-4" start="20260306214500 +0000" stop="20260307011000 +0000">
+  <programme channel="kayo-uhd-4" start="20260306214515 +0000" stop="20260307011000 +0000">
     <title>Melbourne SuperSprint</title>
     <desc>Qualifying for Races 6 and 7 begins on Day 3 of action at Melbourne&apos;s Albert Park.</desc>
     <category>Sport</category>
@@ -48,6 +48,11 @@
   <programme channel="kayo-uhd-4" start="20260307061800 +0000" stop="20260307092500 +0000">
     <title>Melbourne SuperSprint</title>
     <desc>The Supercars hit the streets of Albert Park for Race 6 as all races of the weekend revert to all-out sprint mode with no compulsory pit stops.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260307092500 +0000" stop="20260307092515 +0000">
+    <title>Australian Grand Prix Day 3</title>
+    <desc>Follow all the action from Day 3 as the Australian GP continues.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-4" start="20260307214500 +0000" stop="20260307225400 +0000">
