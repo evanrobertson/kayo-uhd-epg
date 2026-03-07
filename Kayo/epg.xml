@@ -14,7 +14,7 @@
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
     <lcn>603</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a0de45e4b016fee8546d2c-1772603144293?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa6718e4b00ddba33758d3-1772784864830?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
@@ -70,9 +70,24 @@
     <desc>The Suns host the Eagles to wrap up Round 1.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260307083223 +0000" stop="20260307125723 +0000">
-    <title>Manly vs Canberra</title>
-    <desc>Super Saturday winds up with Jamal Fogarty on debut for the hosts against his former club.</desc>
+  <programme channel="kayo-uhd-4" start="20260307214500 +0000" stop="20260307225400 +0000">
+    <title>Australian Grand Prix Day 4</title>
+    <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260307225400 +0000" stop="20260308013000 +0000">
+    <title>Melbourne SuperSprint</title>
+    <desc>It’s the final day of the Australian Grand Prix as drivers compete for the last points on offer in Melbourne to determine who will claim the Larry Perkins Trophy for the round win.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260308013000 +0000" stop="20260308014400 +0000">
+    <title>Australian Grand Prix Day 4</title>
+    <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260308014400 +0000" stop="20260308084000 +0000">
+    <title>Australian Grand Prix</title>
+    <desc>The opening race of the 2026 season begins from Albert Park, with Mercedes teammates George Russell and Kimi Antonelli starting on the front row.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-3" start="20260313060000 +0000" stop="20260313100500 +0000">
@@ -98,26 +113,6 @@
   <programme channel="kayo-uhd-3" start="20260315070000 +0000" stop="20260315102000 +0000">
     <title>Dolphins vs Gold Coast Titans</title>
     <desc>Watch Round 2 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260307214500 +0000" stop="20260307225400 +0000">
-    <title>Australian Grand Prix Day 4</title>
-    <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260307225400 +0000" stop="20260308013000 +0000">
-    <title>Melbourne SuperSprint</title>
-    <desc>It’s the final day of the Australian Grand Prix as drivers compete for the last points on offer in Melbourne to determine who will claim the Larry Perkins Trophy for the round win.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260308013000 +0000" stop="20260308014400 +0000">
-    <title>Australian Grand Prix Day 4</title>
-    <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260308014400 +0000" stop="20260308084000 +0000">
-    <title>Australian Grand Prix</title>
-    <desc>The opening race of the 2026 season begins from Albert Park, with Mercedes teammates George Russell and Kimi Antonelli starting on the front row.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-2" start="20260314050000 +0000" stop="20260314091000 +0000">
