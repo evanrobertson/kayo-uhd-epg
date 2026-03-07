@@ -56,7 +56,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260312073000 +0000" stop="20260312124000 +0000">
-    <title>Carlton Blues vs Richmond Tigers</title>
+    <title>Carlton v Richmond</title>
     <desc>The Blues and Tigers face off in Round 1.</desc>
     <category>Sport</category>
   </programme>
@@ -76,12 +76,12 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260315013000 +0000" stop="20260315064000 +0000">
-    <title>North Melbourne Kangaroos vs Port Adelaide Power</title>
+    <title>Nth Melbourne v Port Adelaide</title>
     <desc>The Roos take on the Power in Round 1.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260315070000 +0000" stop="20260315115500 +0000">
-    <title>Gold Coast Suns vs West Coast Eagles</title>
+    <title>Gold Coast v West Coast</title>
     <desc>The Suns host the Eagles to wrap up Round 1.</desc>
     <category>Sport</category>
   </programme>
@@ -106,7 +106,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-3" start="20260315070000 +0000" stop="20260315102000 +0000">
-    <title>Dolphins vs Gold Coast Titans</title>
+    <title>Dolphins v Titans</title>
     <desc>Watch Round 2 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
@@ -131,7 +131,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-5" start="20260314085500 +0000" stop="20260314105500 +0000">
-    <title>Adelaide Thunderbirds vs NSW Swifts</title>
+    <title>Thunderbirds v Swifts</title>
     <desc>The Swifts are looking to bounce back after a disappointing finals series last season, they travel to Adelaide to take on the Thunderbirds. </desc>
     <category>Sport</category>
   </programme>
