@@ -30,12 +30,12 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-4" start="20260306214515 +0000" stop="20260307041000 +0000">
+  <programme channel="kayo-uhd-4" start="20260306214515 +0000" stop="20260307042213 +0000">
     <title>Australian Grand Prix Day 3</title>
     <desc>Follow all the action from Day 3 as the Australian GP continues.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-4" start="20260307041000 +0000" stop="20260307061800 +0000">
+  <programme channel="kayo-uhd-4" start="20260307042213 +0000" stop="20260307061800 +0000">
     <title>Australian Grand Prix</title>
     <desc>Pole position is up for grabs as opening qualifying session of the 2026 Formula 1 season gets underway.</desc>
     <category>Sport</category>
@@ -70,7 +70,7 @@
     <desc>F1’s new era begins at Albert Park. Lando Norris returns to defend his World Championship with McLaren, while the spotlight is also on Lewis Hamilton in his second season with Ferrari.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-1" start="20260307040000 +0000" stop="20260307091000 +0000">
+  <programme channel="kayo-uhd-1" start="20260307040006 +0000" stop="20260307091006 +0000">
     <title>Greater Western Sydney Giants vs Hawthorn Hawks</title>
     <desc>The Giants host the Hawks in a massive Opening Round clash at Engie Stadium.</desc>
     <category>Sport</category>
