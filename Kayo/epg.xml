@@ -30,7 +30,7 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-4" start="20260307214500 +0000" stop="20260307225400 +0000">
+  <programme channel="kayo-uhd-4" start="20260307214516 +0000" stop="20260307225400 +0000">
     <title>Australian Grand Prix Day 4</title>
     <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
     <category>Sport</category>
@@ -48,6 +48,11 @@
   <programme channel="kayo-uhd-4" start="20260308014400 +0000" stop="20260308084000 +0000">
     <title>Australian Grand Prix</title>
     <desc>The opening race of the 2026 season begins from Albert Park, with Mercedes teammates George Russell and Kimi Antonelli starting on the front row.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260308084000 +0000" stop="20260308084016 +0000">
+    <title>Australian Grand Prix Day 4</title>
+    <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260308073000 +0000" stop="20260308131000 +0000">
