@@ -4,22 +4,22 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a4f82ce4b0757d0d8eaa39-1772595334587?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a4f99fe4b00ddba3375637-1772595285678?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
     <lcn>602</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a4f99fe4b00ddba3375637-1772595285678?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa25dde4b00117d8deb1e6-1772789100291?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
     <lcn>603</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a0de3ae4b067f0611bdef5-1772603205361?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a0de45e4b016fee8546d2c-1772603144293?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
     <lcn>604</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a11892e4b0d87cc4eed4da-1772581286517?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a76f97e4b0757d0d8eab56-1772583555452?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
@@ -30,39 +30,9 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-4" start="20260306214515 +0000" stop="20260307063124 +0000">
-    <title>Australian Grand Prix Day 3</title>
-    <desc>Follow all the action from Day 3 as the Australian GP continues.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260307063124 +0000" stop="20260307093824 +0000">
-    <title>Melbourne SuperSprint</title>
-    <desc>The Supercars hit the streets of Albert Park for Race 6. Broc Feeney starts on pole leading a Ford front-row lockout ahead of Aaron Cameron.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260307214500 +0000" stop="20260307225400 +0000">
-    <title>Australian Grand Prix Day 4</title>
-    <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260307225400 +0000" stop="20260308013000 +0000">
-    <title>Melbourne SuperSprint</title>
-    <desc>It’s the final day of the Australian Grand Prix as drivers compete for the last points on offer in Melbourne to determine who will claim the Larry Perkins Trophy for the round win.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260308013000 +0000" stop="20260308014400 +0000">
-    <title>Australian Grand Prix Day 4</title>
-    <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260308014400 +0000" stop="20260308084000 +0000">
-    <title>Australian Grand Prix</title>
-    <desc>F1’s new era begins at Albert Park. Lando Norris returns to defend his World Championship with McLaren, while the spotlight is also on Lewis Hamilton in his second season with Ferrari.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260307040006 +0000" stop="20260307091006 +0000">
-    <title>Greater Western Sydney Giants vs Hawthorn Hawks</title>
-    <desc>The Giants host the Hawks in a massive Opening Round clash at Engie Stadium.</desc>
+  <programme channel="kayo-uhd-1" start="20260307081532 +0000" stop="20260307135532 +0000">
+    <title>Brisbane Lions vs Western Bulldogs</title>
+    <desc>Brisbane unfurl their 2025 Premiership Flag before the campaign for a three-peat begins.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260308073000 +0000" stop="20260308131000 +0000">
@@ -100,12 +70,7 @@
     <desc>The Suns host the Eagles to wrap up Round 1.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260307060006 +0000" stop="20260307100506 +0000">
-    <title>Cronulla vs Gold Coast Titans</title>
-    <desc>The Titans begin a new era under Josh Hannay. The Sharks have won three straight at home in this rivalry.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260307100506 +0000" stop="20260307125000 +0000">
+  <programme channel="kayo-uhd-3" start="20260307082500 +0000" stop="20260307125000 +0000">
     <title>Manly vs Canberra</title>
     <desc>Super Saturday winds up with Jamal Fogarty on debut for the hosts against his former club.</desc>
     <category>Sport</category>
@@ -135,9 +100,24 @@
     <desc>Watch Round 2 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260307080000 +0000" stop="20260307134000 +0000">
-    <title>Brisbane Lions vs Western Bulldogs</title>
-    <desc>Brisbane unfurl their 2025 Premiership Flag before the campaign for a three-peat begins.</desc>
+  <programme channel="kayo-uhd-4" start="20260307214500 +0000" stop="20260307225400 +0000">
+    <title>Australian Grand Prix Day 4</title>
+    <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260307225400 +0000" stop="20260308013000 +0000">
+    <title>Melbourne SuperSprint</title>
+    <desc>It’s the final day of the Australian Grand Prix as drivers compete for the last points on offer in Melbourne to determine who will claim the Larry Perkins Trophy for the round win.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260308013000 +0000" stop="20260308014400 +0000">
+    <title>Australian Grand Prix Day 4</title>
+    <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260308014400 +0000" stop="20260308084000 +0000">
+    <title>Australian Grand Prix</title>
+    <desc>F1’s new era begins at Albert Park. Lando Norris returns to defend his World Championship with McLaren, while the spotlight is also on Lewis Hamilton in his second season with Ferrari.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-2" start="20260314050000 +0000" stop="20260314091000 +0000">
