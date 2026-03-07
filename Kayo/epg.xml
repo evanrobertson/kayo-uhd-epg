@@ -30,24 +30,14 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-4" start="20260306214515 +0000" stop="20260307042213 +0000">
+  <programme channel="kayo-uhd-4" start="20260306214515 +0000" stop="20260307063124 +0000">
     <title>Australian Grand Prix Day 3</title>
     <desc>Follow all the action from Day 3 as the Australian GP continues.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-4" start="20260307042213 +0000" stop="20260307061800 +0000">
-    <title>Australian Grand Prix</title>
-    <desc>Pole position is up for grabs as opening qualifying session of the 2026 Formula 1 season gets underway.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260307061800 +0000" stop="20260307092500 +0000">
+  <programme channel="kayo-uhd-4" start="20260307063124 +0000" stop="20260307093824 +0000">
     <title>Melbourne SuperSprint</title>
     <desc>The Supercars hit the streets of Albert Park for Race 6. Broc Feeney starts on pole leading a Ford front-row lockout ahead of Aaron Cameron.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260307092500 +0000" stop="20260307092515 +0000">
-    <title>Australian Grand Prix Day 3</title>
-    <desc>Follow all the action from Day 3 as the Australian GP continues.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-4" start="20260307214500 +0000" stop="20260307225400 +0000">
@@ -110,12 +100,12 @@
     <desc>The Suns host the Eagles to wrap up Round 1.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260307060000 +0000" stop="20260307100500 +0000">
+  <programme channel="kayo-uhd-3" start="20260307060006 +0000" stop="20260307100506 +0000">
     <title>Cronulla vs Gold Coast Titans</title>
     <desc>The Titans begin a new era under Josh Hannay. The Sharks have won three straight at home in this rivalry.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260307100500 +0000" stop="20260307125000 +0000">
+  <programme channel="kayo-uhd-3" start="20260307100506 +0000" stop="20260307125000 +0000">
     <title>Manly vs Canberra</title>
     <desc>Super Saturday winds up with Jamal Fogarty on debut for the hosts against his former club.</desc>
     <category>Sport</category>
