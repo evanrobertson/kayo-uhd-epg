@@ -30,17 +30,12 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-4" start="20260306214515 +0000" stop="20260307011000 +0000">
+  <programme channel="kayo-uhd-4" start="20260306214515 +0000" stop="20260307041000 +0000">
     <title>Australian Grand Prix Day 3</title>
     <desc>Follow all the action from Day 3 as the Australian GP continues.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-4" start="20260307011000 +0000" stop="20260307041500 +0000">
-    <title>Australian Grand Prix</title>
-    <desc>As the third and final practice session gets underway, it’s the last chance for the drivers to get their handle on the Albert Park Circuit ahead of qualifying.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260307041500 +0000" stop="20260307061800 +0000">
+  <programme channel="kayo-uhd-4" start="20260307041000 +0000" stop="20260307061800 +0000">
     <title>Australian Grand Prix</title>
     <desc>Pole position is up for grabs as opening qualifying session of the 2026 Formula 1 season gets underway.</desc>
     <category>Sport</category>
