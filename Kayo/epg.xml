@@ -30,17 +30,27 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-4" start="20260307214516 +0000" stop="20260307225400 +0000">
+  <programme channel="kayo-uhd-4" start="20260307214516 +0000" stop="20260307225637 +0000">
     <title>Australian Grand Prix Day 4</title>
     <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-4" start="20260307225400 +0000" stop="20260308013000 +0000">
+  <programme channel="kayo-uhd-4" start="20260307225637 +0000" stop="20260307235500 +0000">
     <title>Melbourne SuperSprint</title>
     <desc>It’s the final day of the Australian Grand Prix as drivers compete for the last points on offer in Melbourne to determine who will claim the Larry Perkins Trophy for the round win.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-4" start="20260308013000 +0000" stop="20260308014400 +0000">
+  <programme channel="kayo-uhd-4" start="20260307235500 +0000" stop="20260308013000 +0000">
+    <title>Trackside</title>
+    <desc>Jess Yates and Mark Winterbottom wrap-up the Melbourne SuperSprint and crown the winner of the Larry Perkins Trophy.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260308013000 +0000" stop="20260308013237 +0000">
+    <title>Melbourne SuperSprint</title>
+    <desc>It’s the final day of the Australian Grand Prix as drivers compete for the last points on offer in Melbourne to determine who will claim the Larry Perkins Trophy for the round win.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260308013237 +0000" stop="20260308014400 +0000">
     <title>Australian Grand Prix Day 4</title>
     <desc>Follow all the action from Day 4 as the Australian Grand Prix wraps up.</desc>
     <category>Sport</category>
