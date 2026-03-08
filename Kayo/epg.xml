@@ -4,7 +4,7 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a4f8a6e4b00ddba3375635-1772595324545?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8ec7be4b0757d0d8eabf2-1772789900021?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
@@ -29,11 +29,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260308073007 +0000" stop="20260308131007 +0000">
-    <title>St Kilda Saints vs Collingwood Magpies</title>
-    <desc>The Saints host the Pies in a huge Sunday night match at the MCG.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260312073000 +0000" stop="20260312124000 +0000">
     <title>Carlton Blues vs Richmond Tigers</title>
     <desc>The Blues and Tigers face off in Round 1.</desc>
