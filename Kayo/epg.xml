@@ -4,7 +4,7 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8ec7be4b0757d0d8eabf2-1772789900021?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8ec7be4b0757d0d8eabf2-1773103140972?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
@@ -19,6 +19,7 @@
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
     <lcn>604</lcn>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0c47e4b00ddba3375934-1773024514864?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
@@ -36,7 +37,7 @@
   </programme>
   <programme channel="kayo-uhd-1" start="20260313073000 +0000" stop="20260313132500 +0000">
     <title>Essendon Bombers vs Hawthorn Hawks</title>
-    <desc>The Bombers take on the Hawks in Round 1.</desc>
+    <desc>Two of the competition&apos;s fiercest rivals meet in a Round 1 Friday night blockbuster.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260314010000 +0000" stop="20260314061000 +0000">
@@ -44,9 +45,9 @@
     <desc>The Bulldogs host the Giants in Round 1.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-1" start="20260314080000 +0000" stop="20260314134000 +0000">
-    <title>Collingwood Magpies vs Adelaide Crows</title>
-    <desc>The Pies take on the Crows in Round 1.</desc>
+  <programme channel="kayo-uhd-1" start="20260314080000 +0000" stop="20260314124000 +0000">
+    <title>Sydney Swans vs Brisbane Lions</title>
+    <desc>The Swans host the Lions in Round 1.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260315013000 +0000" stop="20260315064000 +0000">
@@ -86,12 +87,12 @@
   </programme>
   <programme channel="kayo-uhd-2" start="20260314050000 +0000" stop="20260314091000 +0000">
     <title>Geelong Cats vs Fremantle Dockers</title>
-    <desc>The Cats host the Dockers in Round 1.</desc>
+    <desc>Super Saturday continues when the Dockers open their 2026 campaign with a trip to Geelong. </desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260314091000 +0000" stop="20260314124000 +0000">
-    <title>Sydney Swans vs Brisbane Lions</title>
-    <desc>The Swans host the Lions in Round 1.</desc>
+  <programme channel="kayo-uhd-2" start="20260314091000 +0000" stop="20260314134000 +0000">
+    <title>Collingwood Magpies vs Adelaide Crows</title>
+    <desc>The ageless Pies host the 2025 minor premiers who will be desperate for redemption after last year’s straight set finals heartbreak.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-2" start="20260315040000 +0000" stop="20260315081000 +0000">
@@ -117,6 +118,11 @@
   <programme channel="kayo-uhd-5" start="20260315044500 +0000" stop="20260315075500 +0000">
     <title>West Coast Fever vs Sunshine Coast Lightning</title>
     <desc>After a heartbreaking grand final loss the Fever will be out for revenge as they begin their season hosting the Lightning at RAC Arena.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260315053000 +0000" stop="20260315114000 +0000">
+    <title>Chinese Grand Prix</title>
+    <desc>The F1 season heads to Shanghai as George Russell chases a second straight win, while Ferrari’s Charles Leclerc aims to disrupt the Silver Arrows’ early dominance.</desc>
     <category>Sport</category>
   </programme>
 </tv>
