@@ -30,7 +30,7 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260312073000 +0000" stop="20260312124000 +0000">
+  <programme channel="kayo-uhd-1" start="20260312073000 +0000" stop="20260312131000 +0000">
     <title>Carlton Blues vs Richmond Tigers</title>
     <desc>Fox Footy has all the build up and fallout from the MCG as Carlton look to rebound from an early loss when they host a young and improving Richmond.</desc>
     <category>Sport</category>
@@ -40,14 +40,14 @@
     <desc>Two of the competition&apos;s fiercest rivals meet in a Round 1 Friday night blockbuster.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-1" start="20260314010000 +0000" stop="20260314061000 +0000">
+  <programme channel="kayo-uhd-1" start="20260314013000 +0000" stop="20260314061000 +0000">
     <title>Western Bulldogs vs Greater Western Sydney Giants</title>
     <desc>The Bulldogs host the Giants in Round 1.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-1" start="20260314080000 +0000" stop="20260314134000 +0000">
-    <title>Collingwood Magpies vs Adelaide Crows</title>
-    <desc>The ageless Pies host the 2025 minor premiers who will be desperate for redemption after last year’s straight set finals heartbreak.</desc>
+  <programme channel="kayo-uhd-1" start="20260314080000 +0000" stop="20260314124000 +0000">
+    <title>Sydney Swans vs Brisbane Lions</title>
+    <desc>The Swans host the Lions in Round 1.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260315013000 +0000" stop="20260315064000 +0000">
@@ -85,14 +85,14 @@
     <desc>Suncorp Stadium in Brisbane is the venue for a Queensland Derby expected to involve plenty of points.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260314050000 +0000" stop="20260314091000 +0000">
+  <programme channel="kayo-uhd-2" start="20260314050000 +0000" stop="20260314092500 +0000">
     <title>Geelong Cats vs Fremantle Dockers</title>
-    <desc>Super Saturday continues when the Dockers open their 2026 campaign with a trip to Geelong. </desc>
+    <desc>Super Saturday continues when the Dockers open their 2026 campaign with a trip to Geelong.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260314091000 +0000" stop="20260314124000 +0000">
-    <title>Sydney Swans vs Brisbane Lions</title>
-    <desc>The Swans host the Lions in Round 1.</desc>
+  <programme channel="kayo-uhd-2" start="20260314092500 +0000" stop="20260314134000 +0000">
+    <title>Collingwood Magpies vs Adelaide Crows</title>
+    <desc>The ageless Pies host the 2025 minor premiers who will be desperate for redemption after last year’s straight set finals heartbreak.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-2" start="20260315040000 +0000" stop="20260315081000 +0000">
