@@ -110,6 +110,11 @@
     <desc>The Hawks host the Swans in Round 2.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-1" start="20260320073000 +0000" stop="20260320131000 +0000">
+    <title>Adelaide Crows vs Western Bulldogs</title>
+    <desc>Adelaide hosts the Western Bulldogs in Round 2.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-2" start="20260314050000 +0000" stop="20260314091000 +0000">
     <title>Geelong Cats vs Fremantle Dockers</title>
     <desc>Super Saturday continues when the Dockers open their 2026 campaign with a trip to Geelong.</desc>
@@ -140,7 +145,7 @@
     <desc>The Vixens begin their quest to go back-to-back as they travel to Queensland to take on last year&apos;s wooden spooners at Nissan Arena.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-5" start="20260315044500 +0000" stop="20260315075500 +0000">
+  <programme channel="kayo-uhd-5" start="20260315044500 +0000" stop="20260315074000 +0000">
     <title>West Coast Fever vs Sunshine Coast Lightning</title>
     <desc>After a heartbreaking grand final loss the Fever will be out for revenge as they begin their season hosting the Lightning at RAC Arena.</desc>
     <category>Sport</category>
