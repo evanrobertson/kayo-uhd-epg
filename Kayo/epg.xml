@@ -60,6 +60,11 @@
     <desc>Round 1 concludes with the Eagles opening their 2026 campaign with a trip to the Gold Coast. </desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-1" start="20260319073000 +0000" stop="20260319131000 +0000">
+    <title>Hawthorn Hawks vs Sydney Swans</title>
+    <desc>The Hawks host the Swans in Round 2.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-4" start="20260313030000 +0000" stop="20260313055500 +0000">
     <title>Chinese Grand Prix</title>
     <desc>A week on from a chaotic Australian Grand Prix weekend, drivers head out for the only practice session at the Shanghai Circuit.</desc>
