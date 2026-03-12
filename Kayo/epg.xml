@@ -70,6 +70,16 @@
     <desc>China is the first of six sprint events this season, as drivers battle for pole position in the opening Sprint Qualifying session of 2026.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-4" start="20260314022500 +0000" stop="20260314061000 +0000">
+    <title>Chinese Grand Prix</title>
+    <desc>Shanghai hosts the first F1 Sprint of 2026. Drivers face a 19-lap dash as teams test new aero under revamped regulations.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260314063000 +0000" stop="20260314104000 +0000">
+    <title>Chinese Grand Prix</title>
+    <desc>Mercedes duo George Russell and Kimi Antonelli secured the front row in Melbourne last week and will be the ones to watch when qualifying begins.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-4" start="20260315053000 +0000" stop="20260315114000 +0000">
     <title>Chinese Grand Prix</title>
     <desc>The F1 season heads to Shanghai as George Russell chases a second straight win, while Ferrari’s Charles Leclerc aims to disrupt the Silver Arrows’ early dominance.</desc>
@@ -128,6 +138,21 @@
   <programme channel="kayo-uhd-5" start="20260315044500 +0000" stop="20260315075500 +0000">
     <title>West Coast Fever vs Sunshine Coast Lightning</title>
     <desc>After a heartbreaking grand final loss the Fever will be out for revenge as they begin their season hosting the Lightning at RAC Arena.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260321074500 +0000" stop="20260321105500 +0000">
+    <title>Adelaide Thunderbirds vs West Coast Fever</title>
+    <desc>The Thunderbirds and Fever clash in Adelaide.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260322033000 +0000" stop="20260322054500 +0000">
+    <title>Giants Netball vs Melbourne Vixens</title>
+    <desc>The Giants host the Vixens in Sydney.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260322054500 +0000" stop="20260322085500 +0000">
+    <title>NSW Swifts vs Mavericks</title>
+    <desc>The Swifts host the Mavericks in Sydney.</desc>
     <category>Sport</category>
   </programme>
 </tv>
