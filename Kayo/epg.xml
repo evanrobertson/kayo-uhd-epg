@@ -19,7 +19,7 @@
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
     <lcn>604</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0a1be4b09484fd6175f6-1773022919144?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0996e4b0757d0d8eacf1-1773022948606?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
@@ -30,31 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-4" start="20260313030004 +0000" stop="20260313055504 +0000">
-    <title>Chinese Grand Prix</title>
-    <desc>A week on from a chaotic Australian Grand Prix weekend, drivers head out for the only practice session at the Shanghai Circuit.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260313064500 +0000" stop="20260313101000 +0000">
-    <title>Chinese Grand Prix</title>
-    <desc>China is the first of six sprint events this season, as drivers battle for pole position in the opening Sprint Qualifying session of 2026.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260314022500 +0000" stop="20260314061000 +0000">
-    <title>Chinese Grand Prix</title>
-    <desc>Shanghai hosts the first F1 Sprint of 2026. Drivers face a 19-lap dash as teams test new aero under revamped regulations.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260314063000 +0000" stop="20260314104000 +0000">
-    <title>Chinese Grand Prix</title>
-    <desc>Mercedes duo George Russell and Kimi Antonelli secured the front row in Melbourne last week and will be the ones to watch when qualifying begins.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260315053000 +0000" stop="20260315114000 +0000">
-    <title>Chinese Grand Prix</title>
-    <desc>The F1 season heads to Shanghai as George Russell chases a second straight win, while Ferrari’s Charles Leclerc aims to disrupt the Silver Arrows’ early dominance.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-3" start="20260313060000 +0000" stop="20260313100500 +0000">
     <title>Warriors vs Canberra</title>
     <desc>A great way for Friday Night Footy to kick off with two Round 1 winners.</desc>
@@ -100,6 +75,26 @@
     <desc>Watch Round 3 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-4" start="20260313064500 +0000" stop="20260313101000 +0000">
+    <title>Chinese Grand Prix</title>
+    <desc>China is the first of six sprint events this season, as drivers battle for pole position in the opening Sprint Qualifying session of 2026.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260314022500 +0000" stop="20260314061000 +0000">
+    <title>Chinese Grand Prix</title>
+    <desc>Shanghai hosts the first F1 Sprint of 2026. Drivers face a 19-lap dash as teams test new aero under revamped regulations.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260314063000 +0000" stop="20260314104000 +0000">
+    <title>Chinese Grand Prix</title>
+    <desc>Mercedes duo George Russell and Kimi Antonelli secured the front row in Melbourne last week and will be the ones to watch when qualifying begins.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260315053000 +0000" stop="20260315114000 +0000">
+    <title>Chinese Grand Prix</title>
+    <desc>The F1 season heads to Shanghai as George Russell chases a second straight win, while Ferrari’s Charles Leclerc aims to disrupt the Silver Arrows’ early dominance.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-1" start="20260313073000 +0000" stop="20260313132500 +0000">
     <title>Essendon Bombers vs Hawthorn Hawks</title>
     <desc>Two of the competition&apos;s fiercest rivals meet in a Round 1 Friday night blockbuster.</desc>
@@ -135,6 +130,21 @@
     <desc>Adelaide hosts the Western Bulldogs in Round 2.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-1" start="20260321010000 +0000" stop="20260321062500 +0000">
+    <title>Richmond Tigers vs Gold Coast Suns</title>
+    <desc>The Tigers clash with the Suns in Round 2.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260321081500 +0000" stop="20260321144000 +0000">
+    <title>Fremantle Dockers vs Melbourne Demons</title>
+    <desc>The Dockers kick off their home campaign against the Dees.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260322033000 +0000" stop="20260322081000 +0000">
+    <title>Port Adelaide Power vs Essendon Bombers</title>
+    <desc>The Power get their first home game of the season against the Bombers.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-2" start="20260314050000 +0000" stop="20260314091000 +0000">
     <title>Geelong Cats vs Fremantle Dockers</title>
     <desc>Super Saturday continues when the Dockers open their 2026 campaign with a trip to Geelong.</desc>
@@ -148,6 +158,16 @@
   <programme channel="kayo-uhd-2" start="20260315040000 +0000" stop="20260315081000 +0000">
     <title>Melbourne Demons vs St Kilda Saints</title>
     <desc>The Demons host the Saints in a big Round One clash at the MCG.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260321051500 +0000" stop="20260321092500 +0000">
+    <title>Greater Western Sydney Giants vs St Kilda Saints</title>
+    <desc>The Giants play host to the Saints in Round 2.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260322070000 +0000" stop="20260322115500 +0000">
+    <title>West Coast Eagles vs North Melbourne Kangaroos</title>
+    <desc>The Eagles welcome the Roos to WA in a battle of up-and-coming teams/</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-5" start="20260314053000 +0000" stop="20260314074500 +0000">
