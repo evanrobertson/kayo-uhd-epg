@@ -75,9 +75,29 @@
     <desc>Super Saturday&apos;s nightcap sees two dominant Round 1 winners meet at Bathurst in Central West NSW.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260315070000 +0000" stop="20260315102000 +0000">
-    <title>Dolphins vs Gold Coast Titans</title>
-    <desc>Suncorp Stadium in Brisbane is the venue for a Queensland Derby expected to involve plenty of points.</desc>
+  <programme channel="kayo-uhd-3" start="20260320060000 +0000" stop="20260320100500 +0000">
+    <title>Sydney Roosters vs Penrith</title>
+    <desc>Watch Round 3 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260321033000 +0000" stop="20260321070500 +0000">
+    <title>Newcastle vs Warriors</title>
+    <desc>Watch Round 3 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260321070500 +0000" stop="20260321093500 +0000">
+    <title>Cronulla vs Dolphins</title>
+    <desc>Watch Round 3 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260321093500 +0000" stop="20260321125000 +0000">
+    <title>South Sydney vs Wests Tigers</title>
+    <desc>Watch Round 3 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260322070000 +0000" stop="20260322102000 +0000">
+    <title>North Queensland vs Gold Coast Titans</title>
+    <desc>Watch Round 3 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260313073000 +0000" stop="20260313132500 +0000">
