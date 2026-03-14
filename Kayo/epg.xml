@@ -4,12 +4,12 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa2559e4b096b0a7d70fb3-1773142177682?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa25dde4b00117d8deb1e6-1773142183395?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
     <lcn>602</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa25dde4b00117d8deb1e6-1773142183395?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa2665e4b0f2991b30451c-1773293456576?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
@@ -19,7 +19,7 @@
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
     <lcn>604</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0af2e4b0757d0d8eacf3-1773023464114?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0bd3e4b09484fd6175f7-1773023468538?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
@@ -30,71 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260314013000 +0000" stop="20260314061000 +0000">
-    <title>Western Bulldogs vs Greater Western Sydney Giants</title>
-    <desc>Marcus Bontempelli and Toby Greene will face off in one of the newest but fiercest rivalries when the Dogs face the Giants at Marvel Stadium.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260314080000 +0000" stop="20260314134000 +0000">
-    <title>Collingwood Magpies vs Adelaide Crows</title>
-    <desc>The ageless Pies host the 2025 minor premiers who will be desperate for redemption after last year’s straight set finals heartbreak.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260315013000 +0000" stop="20260315061000 +0000">
-    <title>North Melbourne Kangaroos vs Port Adelaide Power</title>
-    <desc>Jason Horne-Francis and the Power will kick off their 2026 season against the Kangaroos at Marvel Stadium.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260315070000 +0000" stop="20260315115500 +0000">
-    <title>Gold Coast Suns vs West Coast Eagles</title>
-    <desc>Round 1 concludes with the Eagles opening their 2026 campaign with a trip to the Gold Coast.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260319073000 +0000" stop="20260319131000 +0000">
-    <title>Hawthorn Hawks vs Sydney Swans</title>
-    <desc>The Hawks host the Swans in Round 2.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260320073000 +0000" stop="20260320131000 +0000">
-    <title>Adelaide Crows vs Western Bulldogs</title>
-    <desc>Adelaide hosts the Western Bulldogs in Round 2.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260321010000 +0000" stop="20260321062500 +0000">
-    <title>Richmond Tigers vs Gold Coast Suns</title>
-    <desc>The Tigers clash with the Suns in Round 2.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260321081500 +0000" stop="20260321144000 +0000">
-    <title>Fremantle Dockers vs Melbourne Demons</title>
-    <desc>The Dockers kick off their home campaign against the Dees.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260322033000 +0000" stop="20260322081000 +0000">
-    <title>Port Adelaide Power vs Essendon Bombers</title>
-    <desc>The Power get their first home game of the season against the Bombers.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260314022506 +0000" stop="20260314043010 +0000">
-    <title>Chinese Grand Prix</title>
-    <desc>Shanghai hosts the first F1 Sprint of 2026. Drivers face a 19-lap dash as teams test new aero under revamped regulations.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260314043010 +0000" stop="20260314061010 +0000">
-    <title>Ted&apos;s Notebook: China Sprint Race</title>
-    <desc>Ted Kravitz looks back at the China Sprint Race with analysis of the key talking points and moments.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260314063000 +0000" stop="20260314104000 +0000">
-    <title>Chinese Grand Prix</title>
-    <desc>Mercedes duo George Russell and Kimi Antonelli secured the front row in Melbourne last week and will be the ones to watch when qualifying begins.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260315053000 +0000" stop="20260315114000 +0000">
-    <title>Chinese Grand Prix</title>
-    <desc>The F1 season heads to Shanghai as George Russell chases a second straight win, while Ferrari’s Charles Leclerc aims to disrupt the Silver Arrows’ early dominance.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-3" start="20260314033003 +0000" stop="20260314070503 +0000">
     <title>Wests Tigers vs North Queensland</title>
     <desc>Wests Tigers begin their 2026 campaign against the Cowboys who are chasing a hat-trick of wins at Leichhardt Oval.</desc>
@@ -140,32 +75,52 @@
     <desc>Watch Round 3 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260314050000 +0000" stop="20260314091000 +0000">
+  <programme channel="kayo-uhd-1" start="20260314050908 +0000" stop="20260314091908 +0000">
     <title>Geelong Cats vs Fremantle Dockers</title>
     <desc>Super Saturday continues when the Dockers open their 2026 campaign with a trip to Geelong.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260314091000 +0000" stop="20260314124000 +0000">
+  <programme channel="kayo-uhd-1" start="20260314091908 +0000" stop="20260314124000 +0000">
     <title>Sydney Swans vs Brisbane Lions</title>
     <desc>The Swans host the Lions in a big Saturday night clash at the SCG.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260315040000 +0000" stop="20260315081000 +0000">
-    <title>Melbourne Demons vs St Kilda Saints</title>
-    <desc>The Demons host the Saints in a big Round One clash at the MCG.</desc>
+  <programme channel="kayo-uhd-1" start="20260315013000 +0000" stop="20260315061000 +0000">
+    <title>North Melbourne Kangaroos vs Port Adelaide Power</title>
+    <desc>Jason Horne-Francis and the Power will kick off their 2026 season against the Kangaroos at Marvel Stadium.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260321051500 +0000" stop="20260321092500 +0000">
-    <title>Greater Western Sydney Giants vs St Kilda Saints</title>
-    <desc>The Giants play host to the Saints in Round 2.</desc>
+  <programme channel="kayo-uhd-1" start="20260315070000 +0000" stop="20260315115500 +0000">
+    <title>Gold Coast Suns vs West Coast Eagles</title>
+    <desc>Round 1 concludes with the Eagles opening their 2026 campaign with a trip to the Gold Coast.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260322070000 +0000" stop="20260322115500 +0000">
-    <title>West Coast Eagles vs North Melbourne Kangaroos</title>
-    <desc>The Eagles welcome the Roos to WA in a battle of up-and-coming teams/</desc>
+  <programme channel="kayo-uhd-1" start="20260319073000 +0000" stop="20260319131000 +0000">
+    <title>Hawthorn Hawks vs Sydney Swans</title>
+    <desc>The Hawks host the Swans in Round 2.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-5" start="20260314053000 +0000" stop="20260314074500 +0000">
+  <programme channel="kayo-uhd-1" start="20260320073000 +0000" stop="20260320131000 +0000">
+    <title>Adelaide Crows vs Western Bulldogs</title>
+    <desc>Adelaide hosts the Western Bulldogs in Round 2.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260321010000 +0000" stop="20260321062500 +0000">
+    <title>Richmond Tigers vs Gold Coast Suns</title>
+    <desc>The Tigers clash with the Suns in Round 2.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260321081500 +0000" stop="20260321144000 +0000">
+    <title>Fremantle Dockers vs Melbourne Demons</title>
+    <desc>The Dockers kick off their home campaign against the Dees.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260322033000 +0000" stop="20260322081000 +0000">
+    <title>Port Adelaide Power vs Essendon Bombers</title>
+    <desc>The Power get their first home game of the season against the Bombers.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260314053014 +0000" stop="20260314074500 +0000">
     <title>Mavericks vs Giants Netball</title>
     <desc>The 2026 SSN season kicks off with the Mavericks hosting the Giants at Red Energy Stadium, Bendigo.</desc>
     <category>Sport</category>
@@ -198,6 +153,36 @@
   <programme channel="kayo-uhd-5" start="20260322054500 +0000" stop="20260322085500 +0000">
     <title>NSW Swifts vs Mavericks</title>
     <desc>The Swifts host the Mavericks in Sydney.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260314063000 +0000" stop="20260314104000 +0000">
+    <title>Chinese Grand Prix</title>
+    <desc>Mercedes duo George Russell and Kimi Antonelli secured the front row in Melbourne last week and will be the ones to watch when qualifying begins.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260315053000 +0000" stop="20260315114000 +0000">
+    <title>Chinese Grand Prix</title>
+    <desc>The F1 season heads to Shanghai as George Russell chases a second straight win, while Ferrari’s Charles Leclerc aims to disrupt the Silver Arrows’ early dominance.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260314080000 +0000" stop="20260314134000 +0000">
+    <title>Collingwood Magpies vs Adelaide Crows</title>
+    <desc>The ageless Pies host the 2025 minor premiers who will be desperate for redemption after last year’s straight set finals heartbreak.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260315040000 +0000" stop="20260315081000 +0000">
+    <title>Melbourne Demons vs St Kilda Saints</title>
+    <desc>The Demons host the Saints in a big Round One clash at the MCG.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260321051500 +0000" stop="20260321092500 +0000">
+    <title>Greater Western Sydney Giants vs St Kilda Saints</title>
+    <desc>The Giants play host to the Saints in Round 2.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260322070000 +0000" stop="20260322115500 +0000">
+    <title>West Coast Eagles vs North Melbourne Kangaroos</title>
+    <desc>The Eagles welcome the Roos to WA in a battle of up-and-coming teams/</desc>
     <category>Sport</category>
   </programme>
 </tv>
