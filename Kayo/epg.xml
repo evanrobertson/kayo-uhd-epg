@@ -4,7 +4,7 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa2665e4b0f2991b30451c-1773293456576?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa27ace4b096b0a7d70fb6-1773223356272?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
@@ -30,11 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260314080605 +0000" stop="20260314134605 +0000">
-    <title>Collingwood Magpies vs Adelaide Crows</title>
-    <desc>The ageless Pies host the 2025 minor premiers who will be desperate for redemption after last year’s straight set finals heartbreak.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260315013000 +0000" stop="20260315061000 +0000">
     <title>North Melbourne Kangaroos vs Port Adelaide Power</title>
     <desc>Jason Horne-Francis and the Power will kick off their 2026 season against the Kangaroos at Marvel Stadium.</desc>
