@@ -9,7 +9,7 @@
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
     <lcn>602</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa2665e4b0f2991b30451c-1773293456576?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa2713e4b0f2991b30451e-1773142046973?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
@@ -24,7 +24,7 @@
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
     <lcn>605</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa6545e4b09484fd61759c-1772774891568?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa654ee4b09484fd61759d-1773268685355?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-6">
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
@@ -35,9 +35,9 @@
     <desc>Super Saturday continues when the Dockers open their 2026 campaign with a trip to Geelong.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-1" start="20260314091908 +0000" stop="20260314124000 +0000">
-    <title>Sydney Swans vs Brisbane Lions</title>
-    <desc>The Swans host the Lions in a big Saturday night clash at the SCG.</desc>
+  <programme channel="kayo-uhd-1" start="20260314091908 +0000" stop="20260314134000 +0000">
+    <title>Collingwood Magpies vs Adelaide Crows</title>
+    <desc>The ageless Pies host the 2025 minor premiers who will be desperate for redemption after last year’s straight set finals heartbreak.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260315013000 +0000" stop="20260315061000 +0000">
@@ -73,41 +73,6 @@
   <programme channel="kayo-uhd-1" start="20260322033000 +0000" stop="20260322081000 +0000">
     <title>Port Adelaide Power vs Essendon Bombers</title>
     <desc>The Power get their first home game of the season against the Bombers.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260314053014 +0000" stop="20260314074500 +0000">
-    <title>Mavericks vs Giants Netball</title>
-    <desc>The 2026 SSN season kicks off with the Mavericks hosting the Giants at Red Energy Stadium, Bendigo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260314074500 +0000" stop="20260314105500 +0000">
-    <title>Adelaide Thunderbirds vs NSW Swifts</title>
-    <desc>The Swifts are looking to bounce back after a disappointing finals series last season, they travel to Adelaide to take on the Thunderbirds.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260315023000 +0000" stop="20260315044500 +0000">
-    <title>Queensland Firebirds vs Melbourne Vixens</title>
-    <desc>The Vixens begin their quest to go back-to-back as they travel to Queensland to take on last year&apos;s wooden spooners at Nissan Arena.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260315044500 +0000" stop="20260315074000 +0000">
-    <title>West Coast Fever vs Sunshine Coast Lightning</title>
-    <desc>After a heartbreaking grand final loss the Fever will be out for revenge as they begin their season hosting the Lightning at RAC Arena.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260321074500 +0000" stop="20260321105500 +0000">
-    <title>Thunderbirds v Fever</title>
-    <desc>The Thunderbirds and Fever clash in Adelaide.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260322033000 +0000" stop="20260322054500 +0000">
-    <title>Giants Netball vs Melbourne Vixens</title>
-    <desc>The Giants host the Vixens in Sydney.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260322054500 +0000" stop="20260322085500 +0000">
-    <title>NSW Swifts vs Mavericks</title>
-    <desc>The Swifts host the Mavericks in Sydney.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-3" start="20260314061512 +0000" stop="20260314095512 +0000">
@@ -160,9 +125,39 @@
     <desc>The F1 season heads to Shanghai as George Russell chases a second straight win, while Ferrari’s Charles Leclerc aims to disrupt the Silver Arrows’ early dominance.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260314080000 +0000" stop="20260314134000 +0000">
-    <title>Collingwood Magpies vs Adelaide Crows</title>
-    <desc>The ageless Pies host the 2025 minor premiers who will be desperate for redemption after last year’s straight set finals heartbreak.</desc>
+  <programme channel="kayo-uhd-5" start="20260314074506 +0000" stop="20260314105506 +0000">
+    <title>Adelaide Thunderbirds vs NSW Swifts</title>
+    <desc>The Swifts are looking to bounce back after a disappointing finals series last season, they travel to Adelaide to take on the Thunderbirds.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260315023000 +0000" stop="20260315044500 +0000">
+    <title>Queensland Firebirds vs Melbourne Vixens</title>
+    <desc>The Vixens begin their quest to go back-to-back as they travel to Queensland to take on last year&apos;s wooden spooners at Nissan Arena.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260315044500 +0000" stop="20260315074000 +0000">
+    <title>West Coast Fever vs Sunshine Coast Lightning</title>
+    <desc>After a heartbreaking grand final loss the Fever will be out for revenge as they begin their season hosting the Lightning at RAC Arena.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260321074500 +0000" stop="20260321105500 +0000">
+    <title>Adelaide Thunderbirds vs West Coast Fever</title>
+    <desc>The Thunderbirds and Fever clash in Adelaide.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260322033000 +0000" stop="20260322054500 +0000">
+    <title>Giants Netball vs Melbourne Vixens</title>
+    <desc>The Giants host the Vixens in Sydney.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260322054500 +0000" stop="20260322085500 +0000">
+    <title>NSW Swifts vs Mavericks</title>
+    <desc>The Swifts host the Mavericks in Sydney.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260314080000 +0000" stop="20260314124000 +0000">
+    <title>Sydney Swans vs Brisbane Lions</title>
+    <desc>The Swans host the Lions in a big Saturday night clash at the SCG.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-2" start="20260315040000 +0000" stop="20260315081000 +0000">
