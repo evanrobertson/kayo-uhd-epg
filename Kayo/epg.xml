@@ -75,9 +75,14 @@
     <desc>The Power get their first home game of the season against the Bombers.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-4" start="20260314022506 +0000" stop="20260314061006 +0000">
+  <programme channel="kayo-uhd-4" start="20260314022506 +0000" stop="20260314043010 +0000">
     <title>Chinese Grand Prix</title>
     <desc>Shanghai hosts the first F1 Sprint of 2026. Drivers face a 19-lap dash as teams test new aero under revamped regulations.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260314043010 +0000" stop="20260314061010 +0000">
+    <title>Ted&apos;s Notebook: China Sprint Race</title>
+    <desc>Ted Kravitz looks back at the China Sprint Race with analysis of the key talking points and moments.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-4" start="20260314063000 +0000" stop="20260314104000 +0000">
