@@ -14,7 +14,7 @@
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
     <lcn>603</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa6889e4b012ce0d17691d-1772784484457?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa683ee4b09d170d42fc33-1772784519526?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
@@ -30,51 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-3" start="20260314033003 +0000" stop="20260314070503 +0000">
-    <title>Wests Tigers vs North Queensland</title>
-    <desc>Wests Tigers begin their 2026 campaign against the Cowboys who are chasing a hat-trick of wins at Leichhardt Oval.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260314070503 +0000" stop="20260314093500 +0000">
-    <title>St George Illawarra vs Melbourne</title>
-    <desc>The hosts return to Wollongong after a heartbreaking loss in Vegas, while the visitors were one of Round 1&apos;s most impressive winners.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260314093500 +0000" stop="20260314125000 +0000">
-    <title>Penrith vs Cronulla</title>
-    <desc>Super Saturday&apos;s nightcap sees two dominant Round 1 winners meet at Bathurst in Central West NSW.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260315070000 +0000" stop="20260315102000 +0000">
-    <title>Dolphins vs Gold Coast Titans</title>
-    <desc>Suncorp Stadium in Brisbane is the venue for a Queensland Derby expected to involve plenty of points.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260320060000 +0000" stop="20260320100500 +0000">
-    <title>Sydney Roosters vs Penrith</title>
-    <desc>Watch Round 3 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260321033000 +0000" stop="20260321070500 +0000">
-    <title>Newcastle vs Warriors</title>
-    <desc>Watch Round 3 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260321070500 +0000" stop="20260321093500 +0000">
-    <title>Cronulla vs Dolphins</title>
-    <desc>Watch Round 3 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260321093500 +0000" stop="20260321125000 +0000">
-    <title>South Sydney vs Wests Tigers</title>
-    <desc>Watch Round 3 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260322070000 +0000" stop="20260322102000 +0000">
-    <title>North Queensland vs Gold Coast Titans</title>
-    <desc>Watch Round 3 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260314050908 +0000" stop="20260314091908 +0000">
     <title>Geelong Cats vs Fremantle Dockers</title>
     <desc>Super Saturday continues when the Dockers open their 2026 campaign with a trip to Geelong.</desc>
@@ -141,7 +96,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-5" start="20260321074500 +0000" stop="20260321105500 +0000">
-    <title>Adelaide Thunderbirds vs West Coast Fever</title>
+    <title>Thunderbirds v Fever</title>
     <desc>The Thunderbirds and Fever clash in Adelaide.</desc>
     <category>Sport</category>
   </programme>
@@ -155,7 +110,47 @@
     <desc>The Swifts host the Mavericks in Sydney.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-4" start="20260314063000 +0000" stop="20260314104000 +0000">
+  <programme channel="kayo-uhd-3" start="20260314061512 +0000" stop="20260314095512 +0000">
+    <title>St George Illawarra vs Melbourne</title>
+    <desc>The hosts return to Wollongong after a heartbreaking loss in Vegas, while the visitors were one of Round 1&apos;s most impressive winners.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260314095512 +0000" stop="20260314125000 +0000">
+    <title>Penrith vs Cronulla</title>
+    <desc>Super Saturday&apos;s nightcap sees two dominant Round 1 winners meet at Bathurst in Central West NSW.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260315070000 +0000" stop="20260315102000 +0000">
+    <title>Dolphins vs Gold Coast Titans</title>
+    <desc>Suncorp Stadium in Brisbane is the venue for a Queensland Derby expected to involve plenty of points.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260320060000 +0000" stop="20260320100500 +0000">
+    <title>Sydney Roosters vs Penrith</title>
+    <desc>Watch Round 3 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260321033000 +0000" stop="20260321070500 +0000">
+    <title>Newcastle vs Warriors</title>
+    <desc>Watch Round 3 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260321070500 +0000" stop="20260321093500 +0000">
+    <title>Cronulla vs Dolphins</title>
+    <desc>Watch Round 3 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260321093500 +0000" stop="20260321125000 +0000">
+    <title>South Sydney vs Wests Tigers</title>
+    <desc>Watch Round 3 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260322070000 +0000" stop="20260322102000 +0000">
+    <title>North Queensland vs Gold Coast Titans</title>
+    <desc>Watch Round 3 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260314063050 +0000" stop="20260314104050 +0000">
     <title>Chinese Grand Prix</title>
     <desc>Mercedes duo George Russell and Kimi Antonelli secured the front row in Melbourne last week and will be the ones to watch when qualifying begins.</desc>
     <category>Sport</category>
