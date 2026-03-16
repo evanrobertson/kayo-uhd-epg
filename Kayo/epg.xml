@@ -23,7 +23,7 @@
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
     <lcn>605</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0fb57e4b03be4c4afa505-1773206389994?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0fb2ce4b08709814b0f7a-1773206342253?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-6">
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
@@ -89,7 +89,12 @@
     <desc>The Eagles welcome the Roos to WA in a battle of up-and-coming teams/</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-5" start="20260321074500 +0000" stop="20260321105500 +0000">
+  <programme channel="kayo-uhd-5" start="20260321054500 +0000" stop="20260321085500 +0000">
+    <title>Sunshine Coast Lightning vs Queensland Firebirds</title>
+    <desc>It&apos;s a Queensland derby on the Sunshine Coast as both sides search for their first win of the season.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260321085500 +0000" stop="20260321105500 +0000">
     <title>Adelaide Thunderbirds vs West Coast Fever</title>
     <desc>The Thunderbirds host the Fever in Adelaide with both sides looking to add to their first up victories.</desc>
     <category>Sport</category>
