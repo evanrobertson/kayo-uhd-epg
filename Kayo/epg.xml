@@ -23,7 +23,7 @@
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
     <lcn>605</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0fb2ce4b08709814b0f7a-1773206342253?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0fb2ce4b08709814b0f7a-1773707778489?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-6">
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
