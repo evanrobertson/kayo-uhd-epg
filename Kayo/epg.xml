@@ -64,7 +64,12 @@
     <desc>An exclusive Friday Night Footy double header begins with a blockbuster from Allianz Stadium in Sydney.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260321033000 +0000" stop="20260321070500 +0000">
+  <programme channel="kayo-uhd-3" start="20260321013500 +0000" stop="20260321044000 +0000">
+    <title>Newcastle vs Warriors</title>
+    <desc>The New South Wales Cup expands to 14 teams with the introduction of Melbourne Storm. The sides provide depth &amp; rising stars for the NRL.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260321044000 +0000" stop="20260321070500 +0000">
     <title>Newcastle vs Warriors</title>
     <desc>Super Saturday&apos;s NRL triple treat commences in Newcastle with the clash of two undefeated sides.</desc>
     <category>Sport</category>
