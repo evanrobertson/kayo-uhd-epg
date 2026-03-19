@@ -119,4 +119,19 @@
     <desc>The Swifts will look to kickstart their season after a disappointing round 1 loss as they host the Mavericks in Sydney.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-5" start="20260328053000 +0000" stop="20260328085500 +0000">
+    <title>Mavericks vs Melbourne Vixens</title>
+    <desc>The first Melbourne derby of the season sees the Mavericks and Vixens clash at John Cain Arena.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260329023500 +0000" stop="20260329044500 +0000">
+    <title>Queensland Firebirds vs Adelaide Thunderbirds</title>
+    <desc>The Firebirds host the Thunderbirds in Adelaide.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260329044500 +0000" stop="20260329075500 +0000">
+    <title>West Coast Fever vs Giants Netball</title>
+    <desc>The Fever host the Giants in Perth.</desc>
+    <category>Sport</category>
+  </programme>
 </tv>
