@@ -19,6 +19,7 @@
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
     <lcn>604</lcn>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9ebdde4b03a582af19076-1773792277827?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
@@ -162,6 +163,31 @@
   <programme channel="kayo-uhd-5" start="20260329044500 +0000" stop="20260329075500 +0000">
     <title>West Coast Fever vs Giants Netball</title>
     <desc>The Fever host the Giants in Perth.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260327020000 +0000" stop="20260327045500 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>After a week’s break, Formula 1 returns to the Suzuka Circuit for the opening practice session.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260327054500 +0000" stop="20260327082500 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>The Formula 1 drivers are back out at Suzuka for the second practice session.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260328021500 +0000" stop="20260328045500 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>The final practice session gets underway at Suzuka ahead of the all-important qualifying session.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260328050000 +0000" stop="20260328094000 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>Mercedes arrives in dominant form following back-to-back 1-2 finishes, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season after a nightmare start.</desc>
     <category>Sport</category>
   </programme>
 </tv>
