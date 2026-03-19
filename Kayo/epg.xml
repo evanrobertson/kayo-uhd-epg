@@ -80,6 +80,11 @@
     <desc>The Power and Eagles go head to head in Round 3.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-1" start="20260402073000 +0000" stop="20260402131000 +0000">
+    <title>Brisbane Lions vs Collingwood Magpies</title>
+    <desc>The Lions host the Pies in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-3" start="20260320060000 +0000" stop="20260320100500 +0000">
     <title>Sydney Roosters vs Penrith</title>
     <desc>An exclusive Friday Night Footy double header begins with a blockbuster from Allianz Stadium in Sydney.</desc>
