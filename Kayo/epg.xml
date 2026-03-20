@@ -135,6 +135,11 @@
     <desc>The Lions host the Pies in Round 4.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-1" start="20260403033000 +0000" stop="20260403082500 +0000">
+    <title>North Melbourne Kangaroos vs Carlton Blues</title>
+    <desc>The Roos and Blues meet in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-2" start="20260321050000 +0000" stop="20260321091000 +0000">
     <title>Greater Western Sydney Giants vs St Kilda Saints</title>
     <desc>The Giants play host to the Saints in Round 2.</desc>
