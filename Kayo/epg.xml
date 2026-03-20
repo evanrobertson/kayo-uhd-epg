@@ -4,7 +4,7 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2694ee4b068c636de9f9c-1773791542778?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b26958e4b0025c4ab849a4-1773790698665?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
@@ -30,11 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260320073003 +0000" stop="20260320132503 +0000">
-    <title>Adelaide Crows vs Western Bulldogs</title>
-    <desc>The Crows welcome back a star playmaker as they host the red-hot dogs coming off two impressive wins.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260321013000 +0000" stop="20260321061000 +0000">
     <title>Richmond Tigers vs Gold Coast Suns</title>
     <desc>The young and exciting Tigers face a big test against Damien Hardwick and his high flying Suns.</desc>
