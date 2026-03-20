@@ -60,6 +60,31 @@
     <desc>Added incentive for this Queensland Derby clash as both teams chase a breakthrough victory in 2026.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-3" start="20260327060000 +0000" stop="20260327100500 +0000">
+    <title>Warriors vs Wests Tigers</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
+    <title>Canterbury vs Newcastle</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328070500 +0000" stop="20260328093500 +0000">
+    <title>Penrith vs Parramatta</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328093500 +0000" stop="20260328125000 +0000">
+    <title>North Queensland vs Melbourne</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260329070000 +0000" stop="20260329102000 +0000">
+    <title>Gold Coast Titans vs St George Illawarra</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-1" start="20260320073000 +0000" stop="20260320132500 +0000">
     <title>Adelaide Crows vs Western Bulldogs</title>
     <desc>The Crows welcome back a star playmaker as they host the red-hot dogs coming off two impressive wins.</desc>
