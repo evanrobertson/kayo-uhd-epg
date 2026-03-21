@@ -46,7 +46,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260328010000 +0000" stop="20260328054000 +0000">
-    <title>St Kilda v Brisbane</title>
+    <title>St Kilda Saints vs Brisbane Lions</title>
     <desc>The Saints host the Lions in Round 3.</desc>
     <category>Sport</category>
   </programme>
@@ -61,7 +61,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260402073000 +0000" stop="20260402131000 +0000">
-    <title>Brisbane v Collingwood</title>
+    <title>Brisbane Lions vs Collingwood Magpies</title>
     <desc>The Lions host the Pies in Round 4.</desc>
     <category>Sport</category>
   </programme>
@@ -121,7 +121,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-2" start="20260404080000 +0000" stop="20260404124000 +0000">
-    <title>West Coast Eagles vs Sydney Swans</title>
+    <title>West Coast v Sydney</title>
     <desc>Old rivals West Coast and Sydney meet in Round 4.</desc>
     <category>Sport</category>
   </programme>
