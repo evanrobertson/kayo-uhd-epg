@@ -80,12 +80,12 @@
     <desc>The Tigers meet the Power in Round 4.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-5" start="20260321053000 +0000" stop="20260321074500 +0000">
+  <programme channel="kayo-uhd-5" start="20260321053000 +0000" stop="20260321074543 +0000">
     <title>Sunshine Coast Lightning vs Queensland Firebirds</title>
     <desc>It&apos;s a Queensland derby on the Sunshine Coast as both sides search for their first win of the season.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-5" start="20260321074500 +0000" stop="20260321105500 +0000">
+  <programme channel="kayo-uhd-5" start="20260321074543 +0000" stop="20260321105543 +0000">
     <title>Adelaide Thunderbirds vs West Coast Fever</title>
     <desc>The Thunderbirds host the Fever in Adelaide with both sides looking to add to their first up victories.</desc>
     <category>Sport</category>
@@ -183,6 +183,11 @@
   <programme channel="kayo-uhd-2" start="20260403071500 +0000" stop="20260403131000 +0000">
     <title>Adelaide Crows vs Fremantle Dockers</title>
     <desc>The Crows and Dockers face off in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260404080000 +0000" stop="20260404124000 +0000">
+    <title>West Coast Eagles vs Sydney Swans</title>
+    <desc>Old rivals West Coast and Sydney meet in Round 4.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-4" start="20260327020000 +0000" stop="20260327045500 +0000">
