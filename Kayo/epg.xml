@@ -14,7 +14,7 @@
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
     <lcn>603</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2684de4b02037cf97bb94-1773299858197?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2685ae4b09484fd617885-1773299941862?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
@@ -80,46 +80,6 @@
     <desc>The Tigers meet the Power in Round 4.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260321083220 +0000" stop="20260321125720 +0000">
-    <title>South Sydney vs Wests Tigers</title>
-    <desc>Super Saturday concludes in Gosford with Benji Ball taking on another side loaded with attacking options.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260322070000 +0000" stop="20260322104000 +0000">
-    <title>North Queensland vs Gold Coast Titans</title>
-    <desc>Added incentive for this Queensland Derby clash as both teams chase a breakthrough victory in 2026.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260327060000 +0000" stop="20260327100500 +0000">
-    <title>Warriors vs Wests Tigers</title>
-    <desc>Watch Round 4 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
-    <title>Canterbury vs Newcastle</title>
-    <desc>Watch Round 4 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328070500 +0000" stop="20260328093500 +0000">
-    <title>Penrith vs Parramatta</title>
-    <desc>Watch Round 4 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328093500 +0000" stop="20260328125000 +0000">
-    <title>North Queensland vs Melbourne</title>
-    <desc>Watch Round 4 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260329070000 +0000" stop="20260329102000 +0000">
-    <title>Gold Coast Titans vs St George Illawarra</title>
-    <desc>Watch Round 4 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260404060000 +0000" stop="20260404093500 +0000">
-    <title>St George Illawarra vs North Queensland</title>
-    <desc>Watch Round 5 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-5" start="20260322033000 +0000" stop="20260322054500 +0000">
     <title>Giants Netball vs Melbourne Vixens</title>
     <desc>The Giants look for their first win of the season as they host last years champions at Qudos Bank Arena.</desc>
@@ -168,6 +128,41 @@
   <programme channel="kayo-uhd-2" start="20260404080000 +0000" stop="20260404124000 +0000">
     <title>West Coast Eagles vs Sydney Swans</title>
     <desc>Old rivals West Coast and Sydney meet in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260322070000 +0000" stop="20260322104000 +0000">
+    <title>North Queensland vs Gold Coast Titans</title>
+    <desc>Added incentive for this Queensland Derby clash as both teams chase a breakthrough victory in 2026.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260327060000 +0000" stop="20260327100500 +0000">
+    <title>Warriors vs Wests Tigers</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
+    <title>Canterbury vs Newcastle</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328070500 +0000" stop="20260328093500 +0000">
+    <title>Penrith vs Parramatta</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328093500 +0000" stop="20260328125000 +0000">
+    <title>North Queensland vs Melbourne</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260329070000 +0000" stop="20260329102000 +0000">
+    <title>Gold Coast Titans vs St George Illawarra</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260404060000 +0000" stop="20260404093500 +0000">
+    <title>St George Illawarra vs North Queensland</title>
+    <desc>Watch Round 5 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-4" start="20260327020000 +0000" stop="20260327045500 +0000">
