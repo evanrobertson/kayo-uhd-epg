@@ -14,7 +14,7 @@
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
     <lcn>603</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b26801e4b02037cf97bb91-1773892711084?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2680ae4b099514be9d848-1773892618036?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
@@ -30,56 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-3" start="20260321033000 +0000" stop="20260321070500 +0000">
-    <title>Newcastle vs Warriors</title>
-    <desc>Super Saturday&apos;s NRL triple treat commences in Newcastle with the clash of two undefeated sides.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260321070500 +0000" stop="20260321093500 +0000">
-    <title>Cronulla vs Dolphins</title>
-    <desc>The Sharks are looking to extend their eight-game winning streak at home, while the Dolphins play their first away game of 2026.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260321093500 +0000" stop="20260321125000 +0000">
-    <title>South Sydney vs Wests Tigers</title>
-    <desc>Super Saturday concludes in Gosford with Benji Ball taking on another side loaded with attacking options.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260322070000 +0000" stop="20260322104000 +0000">
-    <title>North Queensland vs Gold Coast Titans</title>
-    <desc>Added incentive for this Queensland Derby clash as both teams chase a breakthrough victory in 2026.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260327060000 +0000" stop="20260327100500 +0000">
-    <title>Warriors vs Wests Tigers</title>
-    <desc>Watch Round 4 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
-    <title>Canterbury vs Newcastle</title>
-    <desc>Watch Round 4 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328070500 +0000" stop="20260328093500 +0000">
-    <title>Penrith vs Parramatta</title>
-    <desc>Watch Round 4 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328093500 +0000" stop="20260328125000 +0000">
-    <title>North Queensland vs Melbourne</title>
-    <desc>Watch Round 4 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260329070000 +0000" stop="20260329102000 +0000">
-    <title>Gold Coast Titans vs St George Illawarra</title>
-    <desc>Watch Round 4 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260404060000 +0000" stop="20260404093500 +0000">
-    <title>St George Illawarra vs North Queensland</title>
-    <desc>Watch Round 5 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260321050900 +0000" stop="20260321091900 +0000">
     <title>Greater Western Sydney Giants vs St Kilda Saints</title>
     <desc>The Giants host the Saints in a huge clash at Engie Stadium.</desc>
@@ -165,7 +115,52 @@
     <desc>The Fever host the Giants in Perth.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260321080000 +0000" stop="20260321134000 +0000">
+  <programme channel="kayo-uhd-3" start="20260321061153 +0000" stop="20260321095153 +0000">
+    <title>Cronulla vs Dolphins</title>
+    <desc>The Sharks are looking to extend their eight-game winning streak at home, while the Dolphins play their first away game of 2026.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260321095153 +0000" stop="20260321125000 +0000">
+    <title>South Sydney vs Wests Tigers</title>
+    <desc>Super Saturday concludes in Gosford with Benji Ball taking on another side loaded with attacking options.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260322070000 +0000" stop="20260322104000 +0000">
+    <title>North Queensland vs Gold Coast Titans</title>
+    <desc>Added incentive for this Queensland Derby clash as both teams chase a breakthrough victory in 2026.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260327060000 +0000" stop="20260327100500 +0000">
+    <title>Warriors vs Wests Tigers</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
+    <title>Canterbury vs Newcastle</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328070500 +0000" stop="20260328093500 +0000">
+    <title>Penrith vs Parramatta</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328093500 +0000" stop="20260328125000 +0000">
+    <title>North Queensland vs Melbourne</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260329070000 +0000" stop="20260329102000 +0000">
+    <title>Gold Coast Titans vs St George Illawarra</title>
+    <desc>Watch Round 4 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260404060000 +0000" stop="20260404093500 +0000">
+    <title>St George Illawarra vs North Queensland</title>
+    <desc>Watch Round 5 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260321082000 +0000" stop="20260321140000 +0000">
     <title>Fremantle Dockers vs Melbourne Demons</title>
     <desc>Super Saturday LIVE brings you all the excitement when Fremantle plays their first home game against an energized Melbourne outfit fresh off a win.</desc>
     <category>Sport</category>
