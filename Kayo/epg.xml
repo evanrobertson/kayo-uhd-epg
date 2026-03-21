@@ -4,12 +4,12 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b269a3e4b0025c4ab849a6-1773892968661?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b269abe4b099514be9d84d-1773790765975?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
     <lcn>602</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b269abe4b099514be9d84d-1773790765975?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b39092e4b068c636dea025-1773791481617?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
@@ -30,56 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260321050900 +0000" stop="20260321094900 +0000">
-    <title>Greater Western Sydney Giants vs St Kilda Saints</title>
-    <desc>The Giants host the Saints in a huge clash at Engie Stadium.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260322033000 +0000" stop="20260322081000 +0000">
-    <title>Port Adelaide Power vs Essendon Bombers</title>
-    <desc>Two teams chasing their first win of the season. Plus, former Port Adelaide coach Ken Hinkley joins Fox Footy in the commentary box.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260326073000 +0000" stop="20260326131000 +0000">
-    <title>Geelong Cats vs Adelaide Crows</title>
-    <desc>Geelong take on Adelaide in Round 3.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260327073000 +0000" stop="20260327132500 +0000">
-    <title>Collingwood Magpies vs Greater Western Sydney Giants</title>
-    <desc>The Pies and Giants clash in Round 3.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260328010000 +0000" stop="20260328054000 +0000">
-    <title>St Kilda Saints vs Brisbane Lions</title>
-    <desc>The Saints host the Lions in Round 3.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260328080000 +0000" stop="20260328124000 +0000">
-    <title>Essendon Bombers vs North Melbourne Kangaroos</title>
-    <desc>The Bombers host the Roos in Round 3.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260329010000 +0000" stop="20260329052000 +0000">
-    <title>Port Adelaide Power vs West Coast Eagles</title>
-    <desc>The Power and Eagles go head to head in Round 3.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260402073000 +0000" stop="20260402131000 +0000">
-    <title>Brisbane Lions vs Collingwood Magpies</title>
-    <desc>The Lions host the Pies in Round 4.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260403033000 +0000" stop="20260403082500 +0000">
-    <title>North Melbourne Kangaroos vs Carlton Blues</title>
-    <desc>The Roos and Blues meet in Round 4.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-1" start="20260404043000 +0000" stop="20260404091000 +0000">
-    <title>Richmond Tigers vs Port Adelaide Power</title>
-    <desc>The Tigers meet the Power in Round 4.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-5" start="20260321074543 +0000" stop="20260321105543 +0000">
     <title>Adelaide Thunderbirds vs West Coast Fever</title>
     <desc>The Thunderbirds host the Fever in Adelaide with both sides looking to add to their first up victories.</desc>
@@ -110,34 +60,54 @@
     <desc>The Fever host the Giants in Perth.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260321082000 +0000" stop="20260321140000 +0000">
+  <programme channel="kayo-uhd-1" start="20260321082000 +0000" stop="20260321140000 +0000">
     <title>Fremantle Dockers vs Melbourne Demons</title>
     <desc>Super Saturday LIVE brings you all the excitement when Fremantle plays their first home game against an energized Melbourne outfit fresh off a win.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260322070000 +0000" stop="20260322115500 +0000">
-    <title>West Coast Eagles vs North Melbourne Kangaroos</title>
-    <desc>Round 2 concludes when the Kangaroos travel to WA after their stirring victory last weekend.</desc>
+  <programme channel="kayo-uhd-1" start="20260322033000 +0000" stop="20260322081000 +0000">
+    <title>Port Adelaide Power vs Essendon Bombers</title>
+    <desc>Two teams chasing their first win of the season. Plus, former Port Adelaide coach Ken Hinkley joins Fox Footy in the commentary box.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260328043000 +0000" stop="20260328091000 +0000">
-    <title>Fremantle Dockers vs Richmond Tigers</title>
-    <desc>The Dockers and Tigers collide in Round 3.</desc>
+  <programme channel="kayo-uhd-1" start="20260326073000 +0000" stop="20260326131000 +0000">
+    <title>Geelong Cats vs Adelaide Crows</title>
+    <desc>Geelong take on Adelaide in Round 3.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260329041000 +0000" stop="20260329091000 +0000">
-    <title>Carlton Blues vs Melbourne Demons</title>
-    <desc>Patrick Cripps leads the Blues against the Dees in Round 3.</desc>
+  <programme channel="kayo-uhd-1" start="20260327073000 +0000" stop="20260327132500 +0000">
+    <title>Collingwood Magpies vs Greater Western Sydney Giants</title>
+    <desc>The Pies and Giants clash in Round 3.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260403071500 +0000" stop="20260403131000 +0000">
-    <title>Adelaide Crows vs Fremantle Dockers</title>
-    <desc>The Crows and Dockers face off in Round 4.</desc>
+  <programme channel="kayo-uhd-1" start="20260328010000 +0000" stop="20260328054000 +0000">
+    <title>St Kilda Saints vs Brisbane Lions</title>
+    <desc>The Saints host the Lions in Round 3.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260404080000 +0000" stop="20260404124000 +0000">
-    <title>West Coast Eagles vs Sydney Swans</title>
-    <desc>Old rivals West Coast and Sydney meet in Round 4.</desc>
+  <programme channel="kayo-uhd-1" start="20260328080000 +0000" stop="20260328124000 +0000">
+    <title>Essendon v Nth Melbourne</title>
+    <desc>The Bombers host the Roos in Round 3.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260329010000 +0000" stop="20260329052000 +0000">
+    <title>Port Adelaide Power vs West Coast Eagles</title>
+    <desc>The Power and Eagles go head to head in Round 3.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260402073000 +0000" stop="20260402131000 +0000">
+    <title>Brisbane Lions vs Collingwood Magpies</title>
+    <desc>The Lions host the Pies in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260403033000 +0000" stop="20260403082500 +0000">
+    <title>North Melbourne Kangaroos vs Carlton Blues</title>
+    <desc>The Roos and Blues meet in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260404043000 +0000" stop="20260404091000 +0000">
+    <title>Richmond Tigers vs Port Adelaide Power</title>
+    <desc>The Tigers meet the Power in Round 4.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-3" start="20260321083220 +0000" stop="20260321125720 +0000">
@@ -178,6 +148,31 @@
   <programme channel="kayo-uhd-3" start="20260404060000 +0000" stop="20260404093500 +0000">
     <title>St George Illawarra vs North Queensland</title>
     <desc>Watch Round 5 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260322070000 +0000" stop="20260322115500 +0000">
+    <title>West Coast Eagles vs North Melbourne Kangaroos</title>
+    <desc>Round 2 concludes when the Kangaroos travel to WA after their stirring victory last weekend.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260328043000 +0000" stop="20260328091000 +0000">
+    <title>Fremantle Dockers vs Richmond Tigers</title>
+    <desc>The Dockers and Tigers collide in Round 3.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260329041000 +0000" stop="20260329091000 +0000">
+    <title>Carlton Blues vs Melbourne Demons</title>
+    <desc>Patrick Cripps leads the Blues against the Dees in Round 3.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260403071500 +0000" stop="20260403131000 +0000">
+    <title>Adelaide Crows vs Fremantle Dockers</title>
+    <desc>The Crows and Dockers face off in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260404080000 +0000" stop="20260404124000 +0000">
+    <title>West Coast v Sydney</title>
+    <desc>Old rivals West Coast and Sydney meet in Round 4.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-4" start="20260327020000 +0000" stop="20260327045500 +0000">
