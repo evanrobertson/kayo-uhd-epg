@@ -4,7 +4,7 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b269abe4b099514be9d84d-1773790765975?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b39087e4b07c2decfde93a-1773791447224?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
@@ -30,11 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260321082000 +0000" stop="20260321140000 +0000">
-    <title>Fremantle Dockers vs Melbourne Demons</title>
-    <desc>Super Saturday LIVE brings you all the excitement when Fremantle plays their first home game against an energized Melbourne outfit fresh off a win.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260322033000 +0000" stop="20260322081000 +0000">
     <title>Port Adelaide Power vs Essendon Bombers</title>
     <desc>Two teams chasing their first win of the season. Plus, former Port Adelaide coach Ken Hinkley joins Fox Footy in the commentary box.</desc>
