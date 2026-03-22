@@ -36,12 +36,12 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260326073000 +0000" stop="20260326131000 +0000">
-    <title>Geelong v Adelaide</title>
+    <title>Geelong Cats vs Adelaide Crows</title>
     <desc>Geelong take on Adelaide in Round 3.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260327073000 +0000" stop="20260327132500 +0000">
-    <title>Collingwood v GWS</title>
+    <title>Collingwood Magpies vs Greater Western Sydney Giants</title>
     <desc>The Pies and Giants clash in Round 3.</desc>
     <category>Sport</category>
   </programme>
@@ -51,7 +51,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260328080000 +0000" stop="20260328124000 +0000">
-    <title>Essendon Bombers vs North Melbourne Kangaroos</title>
+    <title>Essendon v Nth Melbourne</title>
     <desc>The Bombers host the Roos in Round 3.</desc>
     <category>Sport</category>
   </programme>
@@ -61,7 +61,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260402073000 +0000" stop="20260402131000 +0000">
-    <title>Brisbane v Collingwood</title>
+    <title>Brisbane Lions vs Collingwood Magpies</title>
     <desc>The Lions host the Pies in Round 4.</desc>
     <category>Sport</category>
   </programme>
