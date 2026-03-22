@@ -36,7 +36,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260326073000 +0000" stop="20260326131000 +0000">
-    <title>Geelong Cats vs Adelaide Crows</title>
+    <title>Geelong v Adelaide</title>
     <desc>Geelong take on Adelaide in Round 3.</desc>
     <category>Sport</category>
   </programme>
@@ -136,12 +136,12 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
-    <title>Canterbury vs Newcastle</title>
+    <title>Bulldogs v Knights</title>
     <desc>Watch Round 4 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-3" start="20260328070500 +0000" stop="20260328093500 +0000">
-    <title>Penrith vs Parramatta</title>
+    <title>Panthers v Eels</title>
     <desc>Watch Round 4 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
