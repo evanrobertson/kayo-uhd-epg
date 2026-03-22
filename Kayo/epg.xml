@@ -4,7 +4,7 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b39092e4b068c636dea025-1773791481617?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9e07ae4b0f6049e105beb-1773793101472?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
@@ -30,11 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260322070455 +0000" stop="20260322115955 +0000">
-    <title>West Coast Eagles vs North Melbourne Kangaroos</title>
-    <desc>Round 2 concludes when the Kangaroos travel to WA after their stirring victory last weekend.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260326073000 +0000" stop="20260326131000 +0000">
     <title>Geelong Cats vs Adelaide Crows</title>
     <desc>Geelong take on Adelaide in Round 3.</desc>
