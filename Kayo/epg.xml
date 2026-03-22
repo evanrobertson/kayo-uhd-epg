@@ -24,37 +24,12 @@
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
     <lcn>605</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0fb89e4b09b1ebef175c8-1773707868658?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0fb95e4b09484fd6177c0-1773707883637?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-6">
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-5" start="20260322033000 +0000" stop="20260322054500 +0000">
-    <title>Giants Netball vs Melbourne Vixens</title>
-    <desc>The Giants look for their first win of the season as they host last years champions at Qudos Bank Arena.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260322054500 +0000" stop="20260322085500 +0000">
-    <title>NSW Swifts vs Mavericks</title>
-    <desc>The Swifts will look to kickstart their season after a disappointing round 1 loss as they host the Mavericks in Sydney.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260328053000 +0000" stop="20260328085500 +0000">
-    <title>Mavericks vs Melbourne Vixens</title>
-    <desc>The first Melbourne derby of the season sees the Mavericks and Vixens clash at John Cain Arena.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260329023500 +0000" stop="20260329044500 +0000">
-    <title>Queensland Firebirds vs Adelaide Thunderbirds</title>
-    <desc>The Firebirds host the Thunderbirds in Adelaide.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260329044500 +0000" stop="20260329075500 +0000">
-    <title>West Coast Fever vs Giants Netball</title>
-    <desc>The Fever host the Giants in Perth.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260322034000 +0000" stop="20260322082000 +0000">
     <title>Port Adelaide Power vs Essendon Bombers</title>
     <desc>Two teams chasing their first win of the season. Plus, former Port Adelaide coach Ken Hinkley joins Fox Footy in the commentary box.</desc>
@@ -91,13 +66,38 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260403033000 +0000" stop="20260403082500 +0000">
-    <title>Nth Melbourne v Carlton</title>
+    <title>North Melbourne Kangaroos vs Carlton Blues</title>
     <desc>The Roos and Blues meet in Round 4.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260404043000 +0000" stop="20260404091000 +0000">
     <title>Richmond Tigers vs Port Adelaide Power</title>
     <desc>The Tigers meet the Power in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260405051500 +0000" stop="20260405093500 +0000">
+    <title>Melbourne Demons vs Gold Coast Suns</title>
+    <desc>The Dees and Suns meet in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260322054543 +0000" stop="20260322085543 +0000">
+    <title>NSW Swifts vs Mavericks</title>
+    <desc>The Swifts will look to kickstart their season after a disappointing round 1 loss as they host the Mavericks in Sydney.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260328053000 +0000" stop="20260328085500 +0000">
+    <title>Mavericks vs Melbourne Vixens</title>
+    <desc>The first Melbourne derby of the season sees the Mavericks and Vixens clash at John Cain Arena.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260329023500 +0000" stop="20260329044500 +0000">
+    <title>Queensland Firebirds vs Adelaide Thunderbirds</title>
+    <desc>The Firebirds host the Thunderbirds in Adelaide.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260329044500 +0000" stop="20260329075500 +0000">
+    <title>West Coast Fever vs Giants Netball</title>
+    <desc>The Fever host the Giants in Perth.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-2" start="20260322070000 +0000" stop="20260322115500 +0000">
@@ -136,7 +136,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
-    <title>Bulldogs v Knights</title>
+    <title>Canterbury vs Newcastle</title>
     <desc>Watch Round 4 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
