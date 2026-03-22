@@ -80,7 +80,17 @@
     <desc>The Dees and Suns meet in Round 4.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260322071140 +0000" stop="20260322105140 +0000">
+  <programme channel="kayo-uhd-3" start="20260322071140 +0000" stop="20260322091000 +0000">
+    <title>North Queensland vs Gold Coast Titans</title>
+    <desc>Added incentive for this Queensland Derby clash as both teams chase a breakthrough victory in 2026.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260322091000 +0000" stop="20260322103500 +0000">
+    <title>Sunday Night With Matty</title>
+    <desc>Matty, Fletch &amp; Hindy are joined by Rabbitoh Cody Walker to recap Round 3, Maccas Unmissable moment, Red Bull High-Flyer and Fletch at the VB Bar.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260322103500 +0000" stop="20260322105140 +0000">
     <title>North Queensland vs Gold Coast Titans</title>
     <desc>Added incentive for this Queensland Derby clash as both teams chase a breakthrough victory in 2026.</desc>
     <category>Sport</category>
