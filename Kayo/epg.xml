@@ -24,42 +24,12 @@
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
     <lcn>605</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0fb95e4b09484fd6177c0-1773707883637?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8a213e4b09b6dff6ec451-1773709305075?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-6">
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-5" start="20260322054543 +0000" stop="20260322073000 +0000">
-    <title>NSW Swifts vs Mavericks</title>
-    <desc>The Swifts will look to kickstart their season after a disappointing round 1 loss as they host the Mavericks in Sydney.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260322073000 +0000" stop="20260322084000 +0000">
-    <title>Pivot</title>
-    <desc>The panel dissect all the action from Round 2 and discuss the latest news in netball.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260322084000 +0000" stop="20260322085543 +0000">
-    <title>NSW Swifts vs Mavericks</title>
-    <desc>The Swifts will look to kickstart their season after a disappointing round 1 loss as they host the Mavericks in Sydney.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260328053000 +0000" stop="20260328085500 +0000">
-    <title>Mavericks vs Melbourne Vixens</title>
-    <desc>The first Melbourne derby of the season sees the Mavericks and Vixens clash at John Cain Arena.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260329023500 +0000" stop="20260329044500 +0000">
-    <title>Queensland Firebirds vs Adelaide Thunderbirds</title>
-    <desc>The Firebirds host the Thunderbirds in Adelaide.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260329044500 +0000" stop="20260329075500 +0000">
-    <title>West Coast Fever vs Giants Netball</title>
-    <desc>The Fever host the Giants in Perth.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260322070455 +0000" stop="20260322115955 +0000">
     <title>West Coast Eagles vs North Melbourne Kangaroos</title>
     <desc>Round 2 concludes when the Kangaroos travel to WA after their stirring victory last weekend.</desc>
@@ -71,7 +41,7 @@
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260327073000 +0000" stop="20260327132500 +0000">
-    <title>Collingwood v GWS</title>
+    <title>Collingwood Magpies vs Greater Western Sydney Giants</title>
     <desc>The Pies and Giants clash in Round 3.</desc>
     <category>Sport</category>
   </programme>
@@ -193,6 +163,26 @@
   <programme channel="kayo-uhd-2" start="20260404080000 +0000" stop="20260404124000 +0000">
     <title>West Coast Eagles vs Sydney Swans</title>
     <desc>Old rivals West Coast and Sydney meet in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260405083000 +0000" stop="20260405141000 +0000">
+    <title>Western Bulldogs vs Essendon Bombers</title>
+    <desc>The Dogs meet the Bombers in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260328053000 +0000" stop="20260328085500 +0000">
+    <title>Mavericks vs Melbourne Vixens</title>
+    <desc>The first Melbourne derby of the season sees the Mavericks and Vixens clash at John Cain Arena.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260329023500 +0000" stop="20260329044500 +0000">
+    <title>Queensland Firebirds vs Adelaide Thunderbirds</title>
+    <desc>The Firebirds host the Thunderbirds in Adelaide.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260329044500 +0000" stop="20260329075500 +0000">
+    <title>West Coast Fever vs Giants Netball</title>
+    <desc>The Fever host the Giants in Perth.</desc>
     <category>Sport</category>
   </programme>
 </tv>
