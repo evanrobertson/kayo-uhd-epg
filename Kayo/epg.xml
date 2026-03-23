@@ -32,22 +32,22 @@
   </channel>
   <programme channel="kayo-uhd-1" start="20260326073000 +0000" stop="20260326131000 +0000">
     <title>Geelong Cats vs Adelaide Crows</title>
-    <desc>Geelong take on Adelaide in Round 3.</desc>
+    <desc>Plenty of stars will be on display Thursday night as Fox Footy brings you all the action and fallout when Geelong host Adelaide.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260327073000 +0000" stop="20260327132500 +0000">
     <title>Collingwood Magpies vs Greater Western Sydney Giants</title>
-    <desc>The Pies and Giants clash in Round 3.</desc>
+    <desc>A fired-up Adam Kingsley will push his side to regain their opening round form as they face the Pies, fresh off the bye. </desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260328010000 +0000" stop="20260328054000 +0000">
     <title>St Kilda Saints vs Brisbane Lions</title>
-    <desc>The Saints host the Lions in Round 3.</desc>
+    <desc>The Saints host the Lions in a huge clash at Marvel Stadium.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260328080000 +0000" stop="20260328124000 +0000">
     <title>Essendon Bombers vs North Melbourne Kangaroos</title>
-    <desc>The Bombers host the Roos in Round 3.</desc>
+    <desc>It’s been ten years since North has beaten the Bombers, and rarely has there been a more important game as both clubs meet at Marvel Stadium.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260329010000 +0000" stop="20260329052000 +0000">
@@ -73,6 +73,11 @@
   <programme channel="kayo-uhd-1" start="20260405051500 +0000" stop="20260405093500 +0000">
     <title>Melbourne Demons vs Gold Coast Suns</title>
     <desc>The Dees and Suns meet in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260406043000 +0000" stop="20260406092500 +0000">
+    <title>Hawthorn Hawks vs Geelong Cats</title>
+    <desc>The Hawks and Cats close out Round 4.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-4" start="20260327020000 +0000" stop="20260327045500 +0000">
@@ -135,6 +140,11 @@
     <desc>Watch Round 5 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-3" start="20260406053000 +0000" stop="20260406091000 +0000">
+    <title>Parramatta vs Wests Tigers</title>
+    <desc>Watch Round 5 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-2" start="20260328043000 +0000" stop="20260328091000 +0000">
     <title>Fremantle Dockers vs Richmond Tigers</title>
     <desc>The Dockers and Tigers collide in Round 3.</desc>
@@ -160,19 +170,24 @@
     <desc>The Dogs meet the Bombers in Round 4.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-5" start="20260328053000 +0000" stop="20260328085500 +0000">
+  <programme channel="kayo-uhd-5" start="20260328053000 +0000" stop="20260328074500 +0000">
     <title>Mavericks vs Melbourne Vixens</title>
     <desc>The first Melbourne derby of the season sees the Mavericks and Vixens clash at John Cain Arena.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-5" start="20260329023500 +0000" stop="20260329044500 +0000">
+  <programme channel="kayo-uhd-5" start="20260328074500 +0000" stop="20260328105500 +0000">
+    <title>Sunshine Coast Lightning vs NSW Swifts</title>
+    <desc>The Lightning and Swifts clash on the Sunshine Coast with sides coming off exciting 1 goal wins.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260329023000 +0000" stop="20260329044500 +0000">
     <title>Queensland Firebirds vs Adelaide Thunderbirds</title>
-    <desc>The Firebirds host the Thunderbirds in Adelaide.</desc>
+    <desc>The Firebirds are looking for their first win of the season as they host the red-hot Thunderbirds.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-5" start="20260329044500 +0000" stop="20260329075500 +0000">
     <title>West Coast Fever vs Giants Netball</title>
-    <desc>The Fever host the Giants in Perth.</desc>
+    <desc>The Fever search for back-to-back home wins as they host the struggling Giants at RAC Arena.</desc>
     <category>Sport</category>
   </programme>
 </tv>
