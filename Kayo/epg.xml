@@ -80,6 +80,11 @@
     <desc>The Hawks and Cats close out Round 4.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-1" start="20260409083000 +0000" stop="20260409141000 +0000">
+    <title>Adelaide Crows vs Carlton Blues</title>
+    <desc>Round 5 begins with the Blues travelling to face the Crows.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-4" start="20260327020000 +0000" stop="20260327045500 +0000">
     <title>Japanese Grand Prix</title>
     <desc>After a week’s break, Formula 1 returns to the Suzuka Circuit for the opening practice session.</desc>
