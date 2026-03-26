@@ -4,7 +4,7 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9e07ae4b0f6049e105beb-1773793101472?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9eda8e4b082fa594488e3-1773793040557?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
@@ -30,9 +30,54 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260326073006 +0000" stop="20260326131006 +0000">
-    <title>Geelong Cats vs Adelaide Crows</title>
-    <desc>Plenty of stars will be on display Thursday night as Fox Footy brings you all the action and fallout when Geelong host Adelaide.</desc>
+  <programme channel="kayo-uhd-4" start="20260327020000 +0000" stop="20260327045500 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>After a week’s break, Formula 1 returns to the Suzuka Circuit for the opening practice session.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260327054500 +0000" stop="20260327082500 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>The Formula 1 drivers are back out at Suzuka for the second practice session.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260327060000 +0000" stop="20260327100500 +0000">
+    <title>Warriors vs Wests Tigers</title>
+    <desc>Friday&apos;s exclusive double-header begins with the first-placed hosts on a nine-game winning streak against the visitors.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
+    <title>Canterbury vs Newcastle</title>
+    <desc>Super Saturday kicks off with the hosts looking to retain their undefeated record in 2026 &amp; extend their winning streak against the visitors to four.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328070500 +0000" stop="20260328093500 +0000">
+    <title>Penrith vs Parramatta</title>
+    <desc>These fierce rivals are in form heading into the 114th Western Sydney Derby.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328093500 +0000" stop="20260328125000 +0000">
+    <title>North Queensland vs Melbourne</title>
+    <desc>The hosts will be buoyant after a breakthrough win, while the visitors will be stinging after blowing a 14-point lead to suffer their first loss.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260329070000 +0000" stop="20260329103500 +0000">
+    <title>Gold Coast Titans vs St George Illawarra</title>
+    <desc>Extra intensity for Round 4&apos;s final clash, with both teams chasing their first victory of the season.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260404060000 +0000" stop="20260404093500 +0000">
+    <title>St George Illawarra vs North Queensland</title>
+    <desc>Watch Round 5 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260405030000 +0000" stop="20260405070500 +0000">
+    <title>Cronulla vs Warriors</title>
+    <desc>Watch Round 5 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260327073000 +0000" stop="20260327132500 +0000">
@@ -83,61 +128,6 @@
   <programme channel="kayo-uhd-1" start="20260409083000 +0000" stop="20260409141000 +0000">
     <title>Adelaide Crows vs Carlton Blues</title>
     <desc>Round 5 begins with the Blues travelling to face the Crows.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260327020000 +0000" stop="20260327045500 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>After a week’s break, Formula 1 returns to the Suzuka Circuit for the opening practice session.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260327054500 +0000" stop="20260327082500 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>The Formula 1 drivers are back out at Suzuka for the second practice session.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260327060000 +0000" stop="20260327100500 +0000">
-    <title>Warriors vs Wests Tigers</title>
-    <desc>Friday&apos;s exclusive double-header begins with the first-placed hosts on a nine-game winning streak against the visitors.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
-    <title>Canterbury vs Newcastle</title>
-    <desc>Super Saturday kicks off with the hosts looking to retain their undefeated record in 2026 &amp; extend their winning streak against the visitors to four.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328070500 +0000" stop="20260328093500 +0000">
-    <title>Penrith vs Parramatta</title>
-    <desc>These fierce rivals are in form heading into the 114th Western Sydney Derby.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328093500 +0000" stop="20260328125000 +0000">
-    <title>North Queensland vs Melbourne</title>
-    <desc>The hosts will be buoyant after a breakthrough win, while the visitors will be stinging after blowing a 14-point lead to suffer their first loss.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260329070000 +0000" stop="20260329102000 +0000">
-    <title>Gold Coast Titans vs St George Illawarra</title>
-    <desc>Extra intensity for Round 4&apos;s final clash, with both teams chasing their first victory of the season. </desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260404060000 +0000" stop="20260404093500 +0000">
-    <title>St George Illawarra vs North Queensland</title>
-    <desc>Watch Round 5 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260405030000 +0000" stop="20260405070500 +0000">
-    <title>Cronulla vs Warriors</title>
-    <desc>Watch Round 5 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260406053000 +0000" stop="20260406091000 +0000">
-    <title>Parramatta vs Wests Tigers</title>
-    <desc>Watch Round 5 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-2" start="20260328050000 +0000" stop="20260328091000 +0000">
