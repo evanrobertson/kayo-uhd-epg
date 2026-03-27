@@ -4,7 +4,7 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9eda8e4b082fa594488e3-1773793040557?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edb5e4b082fa594488e5-1773892977657?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
@@ -30,11 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260327073005 +0000" stop="20260327132505 +0000">
-    <title>Collingwood Magpies vs Greater Western Sydney Giants</title>
-    <desc>A fired-up Adam Kingsley will push his side to regain their opening round form as they face the Pies, fresh off the bye.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260328010000 +0000" stop="20260328061000 +0000">
     <title>St Kilda Saints vs Brisbane Lions</title>
     <desc>The Saints host the Lions in a huge clash at Marvel Stadium.</desc>
