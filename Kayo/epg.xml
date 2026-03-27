@@ -120,6 +120,11 @@
     <desc>Round 5 begins with the Blues travelling to face the Crows.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-1" start="20260410083000 +0000" stop="20260410141000 +0000">
+    <title>Collingwood Magpies vs Fremantle Dockers</title>
+    <desc>The Pies host the Dockers in Round 5.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-4" start="20260328021500 +0000" stop="20260328045500 +0000">
     <title>Japanese Grand Prix</title>
     <desc>The final practice session gets underway at Suzuka ahead of the all-important qualifying session.</desc>
