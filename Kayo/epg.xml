@@ -185,4 +185,24 @@
     <desc>The Fever search for back-to-back home wins as they host the struggling Giants at RAC Arena.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-5" start="20260404053000 +0000" stop="20260404074500 +0000">
+    <title>Giants Netball vs Queensland Firebirds</title>
+    <desc>The Giants host the Firebirds in Sydney.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260404074500 +0000" stop="20260404105500 +0000">
+    <title>Mavericks vs Adelaide Thunderbirds</title>
+    <desc>The Mavericks host the Thunderbrids in Melbourne.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260405033000 +0000" stop="20260405054500 +0000">
+    <title>NSW Swifts vs West Coast Fever</title>
+    <desc>The Swifts host the Fever in Sydney.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260405054500 +0000" stop="20260405085500 +0000">
+    <title>Melbourne Vixens vs Sunshine Coast Lightning</title>
+    <desc>The Vixens host the Lightning in Melbourne.</desc>
+    <category>Sport</category>
+  </programme>
 </tv>
