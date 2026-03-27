@@ -50,7 +50,7 @@
     <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260327060000 +0000" stop="20260327100500 +0000">
+  <programme channel="kayo-uhd-3" start="20260327060006 +0000" stop="20260327100506 +0000">
     <title>Warriors vs Wests Tigers</title>
     <desc>Friday&apos;s exclusive double-header begins with the first-placed hosts on a nine-game winning streak against the visitors.</desc>
     <category>Sport</category>
@@ -83,6 +83,11 @@
   <programme channel="kayo-uhd-3" start="20260405030000 +0000" stop="20260405070500 +0000">
     <title>Cronulla vs Warriors</title>
     <desc>Watch Round 5 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260410070000 +0000" stop="20260410110500 +0000">
+    <title>St George Illawarra vs Manly</title>
+    <desc>Watch Round 6 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260327073000 +0000" stop="20260327132500 +0000">
