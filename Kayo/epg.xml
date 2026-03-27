@@ -19,7 +19,7 @@
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
     <lcn>604</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9ec6de4b082fa594488dd-1773792450995?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9ed65e4b08e801b58903e-1773792758158?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
@@ -30,26 +30,6 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-4" start="20260327054506 +0000" stop="20260327082506 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>The Formula 1 drivers are back out at Suzuka for the second practice session.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260328021500 +0000" stop="20260328045500 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>The final practice session gets underway at Suzuka ahead of the all-important qualifying session.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260328050000 +0000" stop="20260328094000 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-3" start="20260327060006 +0000" stop="20260327100506 +0000">
     <title>Warriors vs Wests Tigers</title>
     <desc>Friday&apos;s exclusive double-header begins with the first-placed hosts on a nine-game winning streak against the visitors.</desc>
@@ -90,7 +70,7 @@
     <desc>Watch Round 6 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-1" start="20260327073000 +0000" stop="20260327132500 +0000">
+  <programme channel="kayo-uhd-1" start="20260327073005 +0000" stop="20260327132505 +0000">
     <title>Collingwood Magpies vs Greater Western Sydney Giants</title>
     <desc>A fired-up Adam Kingsley will push his side to regain their opening round form as they face the Pies, fresh off the bye.</desc>
     <category>Sport</category>
@@ -138,6 +118,21 @@
   <programme channel="kayo-uhd-1" start="20260409083000 +0000" stop="20260409141000 +0000">
     <title>Adelaide Crows vs Carlton Blues</title>
     <desc>Round 5 begins with the Blues travelling to face the Crows.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260328021500 +0000" stop="20260328045500 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>The final practice session gets underway at Suzuka ahead of the all-important qualifying session.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260328050000 +0000" stop="20260328094000 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-2" start="20260328050000 +0000" stop="20260328091000 +0000">
