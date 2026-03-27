@@ -40,6 +40,16 @@
     <desc>The Formula 1 drivers are back out at Suzuka for the second practice session.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-4" start="20260328021500 +0000" stop="20260328045500 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>The final practice session gets underway at Suzuka ahead of the all-important qualifying session.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260328050000 +0000" stop="20260328094000 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
     <title>Japanese Grand Prix</title>
     <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
@@ -97,7 +107,7 @@
   </programme>
   <programme channel="kayo-uhd-1" start="20260329010000 +0000" stop="20260329052000 +0000">
     <title>Port Adelaide Power vs West Coast Eagles</title>
-    <desc>Both sides are aiming for back to back wins as your Sunday Ticket begins on Fox Footy. </desc>
+    <desc>Both sides are aiming for back to back wins as your Sunday Ticket begins on Fox Footy.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260402073000 +0000" stop="20260402131000 +0000">
