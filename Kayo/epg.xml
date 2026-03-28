@@ -19,7 +19,7 @@
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
     <lcn>604</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9ed65e4b08e801b58903e-1773792758158?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9f007e4b08e801b589046-1773794477196?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
@@ -85,21 +85,6 @@
     <desc>The Lions travel to face the Roos in Round 5.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-4" start="20260328021500 +0000" stop="20260328045500 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>The final practice session gets underway at Suzuka ahead of the all-important qualifying session.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260328050000 +0000" stop="20260328094000 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
     <title>Canterbury vs Newcastle</title>
     <desc>Super Saturday kicks off with the hosts looking to retain their undefeated record in 2026 &amp; extend their winning streak against the visitors to four.</desc>
@@ -163,6 +148,16 @@
   <programme channel="kayo-uhd-2" start="20260411023000 +0000" stop="20260411071000 +0000">
     <title>Essendon Bombers vs Melbourne Demons</title>
     <desc>The Bombers and Dees collide in Round 5.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260328050000 +0000" stop="20260328094000 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-5" start="20260328053000 +0000" stop="20260328074500 +0000">
