@@ -24,47 +24,12 @@
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
     <lcn>605</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8a21fe4b020ac73a73f64-1773707986355?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8a22ce4b09b6dff6ec452-1773708009426?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-6">
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-5" start="20260328080253 +0000" stop="20260328111253 +0000">
-    <title>Sunshine Coast Lightning vs NSW Swifts</title>
-    <desc>The Lightning and Swifts clash on the Sunshine Coast with sides coming off exciting 1 goal wins.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260329023000 +0000" stop="20260329044500 +0000">
-    <title>Queensland Firebirds vs Adelaide Thunderbirds</title>
-    <desc>The Firebirds are looking for their first win of the season as they host the red-hot Thunderbirds.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260329044500 +0000" stop="20260329075500 +0000">
-    <title>West Coast Fever vs Giants Netball</title>
-    <desc>The Fever search for back-to-back home wins as they host the struggling Giants at RAC Arena.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260404053000 +0000" stop="20260404074500 +0000">
-    <title>Giants Netball vs Queensland Firebirds</title>
-    <desc>The Giants host the Firebirds in Sydney.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260404074500 +0000" stop="20260404105500 +0000">
-    <title>Mavericks vs Adelaide Thunderbirds</title>
-    <desc>The Mavericks host the Thunderbrids in Melbourne.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260405033000 +0000" stop="20260405054500 +0000">
-    <title>NSW Swifts vs West Coast Fever</title>
-    <desc>The Swifts host the Fever in Sydney.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260405054500 +0000" stop="20260405085500 +0000">
-    <title>Melbourne Vixens vs Sunshine Coast Lightning</title>
-    <desc>The Vixens host the Lightning in Melbourne.</desc>
-    <category>Sport</category>
-  </programme>
   <programme channel="kayo-uhd-1" start="20260328081915 +0000" stop="20260328135915 +0000">
     <title>Essendon Bombers vs North Melbourne Kangaroos</title>
     <desc>It’s been ten years since North has beaten the Bombers, and rarely has there been a more important game as both clubs meet at Marvel Stadium.</desc>
@@ -153,6 +118,36 @@
   <programme channel="kayo-uhd-3" start="20260411092500 +0000" stop="20260411135000 +0000">
     <title>Melbourne vs Warriors</title>
     <desc>Watch Round 6 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260329023000 +0000" stop="20260329044500 +0000">
+    <title>Queensland Firebirds vs Adelaide Thunderbirds</title>
+    <desc>The Firebirds are looking for their first win of the season as they host the red-hot Thunderbirds.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260329044500 +0000" stop="20260329075500 +0000">
+    <title>West Coast Fever vs Giants Netball</title>
+    <desc>The Fever search for back-to-back home wins as they host the struggling Giants at RAC Arena.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260404053000 +0000" stop="20260404074500 +0000">
+    <title>Giants Netball vs Queensland Firebirds</title>
+    <desc>The Giants host the Firebirds in Sydney.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260404074500 +0000" stop="20260404105500 +0000">
+    <title>Mavericks vs Adelaide Thunderbirds</title>
+    <desc>The Mavericks host the Thunderbrids in Melbourne.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260405033000 +0000" stop="20260405054500 +0000">
+    <title>NSW Swifts vs West Coast Fever</title>
+    <desc>The Swifts host the Fever in Sydney.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-5" start="20260405054500 +0000" stop="20260405085500 +0000">
+    <title>Melbourne Vixens vs Sunshine Coast Lightning</title>
+    <desc>The Vixens host the Lightning in Melbourne.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
