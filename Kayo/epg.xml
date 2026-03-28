@@ -4,35 +4,35 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edbee4b03a582af1907d-1773793242227?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edc4e4b03a582af1907f-1774226611024?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
     <lcn>602</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edc4e4b03a582af1907f-1774226611024?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9eedae4b020ac73a73fc1-1773793085487?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
     <lcn>603</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb7957e4b06449990a6afd-1773894069407?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb79cee4b082fa5944897f-1773894208415?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-4">
     <display-name>Kayo 4K UHD 4 (F1)</display-name>
     <lcn>604</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9f007e4b08e801b589046-1773794477196?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8cecbe4b09d00f73fa5f5-1773787156413?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-5">
     <display-name>Kayo 4K UHD 5 (Netball)</display-name>
     <lcn>605</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8a213e4b09b6dff6ec451-1773709305075?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8a21fe4b020ac73a73f64-1773707986355?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-6">
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260328050006 +0000" stop="20260328091006 +0000">
-    <title>Fremantle Dockers vs Richmond Tigers</title>
-    <desc>The Tigers head west to face the Dockers at Optus Stadium.</desc>
+  <programme channel="kayo-uhd-1" start="20260328080000 +0000" stop="20260328134000 +0000">
+    <title>Essendon Bombers vs North Melbourne Kangaroos</title>
+    <desc>It’s been ten years since North has beaten the Bombers, and rarely has there been a more important game as both clubs meet at Marvel Stadium.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260329010000 +0000" stop="20260329052000 +0000">
@@ -85,32 +85,7 @@
     <desc>The Swans welcome the Suns to the SCG in Round 5.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-4" start="20260328050006 +0000" stop="20260328080000 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260328080000 +0000" stop="20260328094000 +0000">
-    <title>Ted&apos;s Notebook Japan Qualifying</title>
-    <desc>Ted Kravitz looks back at the Japan qualifying session with analysis of the key talking points and moments.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260328094000 +0000" stop="20260328094006 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
-    <title>Japanese Grand Prix</title>
-    <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260328052950 +0000" stop="20260328074500 +0000">
-    <title>Mavericks vs Melbourne Vixens</title>
-    <desc>The first Melbourne derby of the season sees the Mavericks and Vixens clash at John Cain Arena.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-5" start="20260328074500 +0000" stop="20260328105500 +0000">
+  <programme channel="kayo-uhd-5" start="20260328080253 +0000" stop="20260328111253 +0000">
     <title>Sunshine Coast Lightning vs NSW Swifts</title>
     <desc>The Lightning and Swifts clash on the Sunshine Coast with sides coming off exciting 1 goal wins.</desc>
     <category>Sport</category>
@@ -145,12 +120,7 @@
     <desc>The Vixens host the Lightning in Melbourne.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260328062433 +0000" stop="20260328100433 +0000">
-    <title>Penrith vs Parramatta</title>
-    <desc>These fierce rivals are in form heading into the 114th Western Sydney Derby.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328100433 +0000" stop="20260328125000 +0000">
+  <programme channel="kayo-uhd-3" start="20260328083237 +0000" stop="20260328125737 +0000">
     <title>North Queensland vs Melbourne</title>
     <desc>The hosts will be buoyant after a breakthrough win, while the visitors will be stinging after blowing a 14-point lead to suffer their first loss.</desc>
     <category>Sport</category>
@@ -180,9 +150,9 @@
     <desc>Watch Round 6 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-2" start="20260328080000 +0000" stop="20260328134000 +0000">
-    <title>Essendon Bombers vs North Melbourne Kangaroos</title>
-    <desc>It’s been ten years since North has beaten the Bombers, and rarely has there been a more important game as both clubs meet at Marvel Stadium.</desc>
+  <programme channel="kayo-uhd-4" start="20260329033000 +0000" stop="20260329094000 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-2" start="20260329041000 +0000" stop="20260329091000 +0000">
