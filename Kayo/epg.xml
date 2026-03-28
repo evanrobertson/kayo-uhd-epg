@@ -120,6 +120,11 @@
     <desc>Watch Round 6 of the NRL on Kayo.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-3" start="20260411043000 +0000" stop="20260411080500 +0000">
+    <title>South Sydney vs Canberra</title>
+    <desc>Watch Round 6 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-2" start="20260328050000 +0000" stop="20260328091000 +0000">
     <title>Fremantle Dockers vs Richmond Tigers</title>
     <desc>The Tigers head west to face the Dockers at Optus Stadium.</desc>
