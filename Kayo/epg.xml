@@ -85,7 +85,17 @@
     <desc>The Swans welcome the Suns to the SCG in Round 5.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-4" start="20260328050006 +0000" stop="20260328094006 +0000">
+  <programme channel="kayo-uhd-4" start="20260328050006 +0000" stop="20260328080000 +0000">
+    <title>Japanese Grand Prix</title>
+    <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260328080000 +0000" stop="20260328094000 +0000">
+    <title>Ted&apos;s Notebook Japan Qualifying</title>
+    <desc>Ted Kravitz looks back at the Japan qualifying session with analysis of the key talking points and moments.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-4" start="20260328094000 +0000" stop="20260328094006 +0000">
     <title>Japanese Grand Prix</title>
     <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
     <category>Sport</category>
