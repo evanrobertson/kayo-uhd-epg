@@ -160,6 +160,11 @@
     <desc>The Dogs meet the Bombers in Round 4.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-2" start="20260411023000 +0000" stop="20260411071000 +0000">
+    <title>Essendon Bombers vs Melbourne Demons</title>
+    <desc>The Bombers and Dees collide in Round 5.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-5" start="20260328053000 +0000" stop="20260328074500 +0000">
     <title>Mavericks vs Melbourne Vixens</title>
     <desc>The first Melbourne derby of the season sees the Mavericks and Vixens clash at John Cain Arena.</desc>
