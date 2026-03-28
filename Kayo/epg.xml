@@ -4,12 +4,12 @@
   <channel id="kayo-uhd-1">
     <display-name>Kayo 4K UHD 1 (Footy)</display-name>
     <lcn>601</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edb5e4b082fa594488e5-1773892977657?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edbee4b03a582af1907d-1773793242227?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-2">
     <display-name>Kayo 4K UHD 2 (Footy)</display-name>
     <lcn>602</lcn>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edbee4b03a582af1907d-1773793242227?location=carousel-item&amp;imwidth=${WIDTH}"/>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edc4e4b03a582af1907f-1774226611024?location=carousel-item&amp;imwidth=${WIDTH}"/>
   </channel>
   <channel id="kayo-uhd-3">
     <display-name>Kayo 4K UHD 3 (League)</display-name>
@@ -30,14 +30,49 @@
     <display-name>Kayo 4K UHD 6 (Cricket)</display-name>
     <lcn>606</lcn>
   </channel>
-  <programme channel="kayo-uhd-1" start="20260328010000 +0000" stop="20260328061000 +0000">
-    <title>St Kilda Saints vs Brisbane Lions</title>
-    <desc>The Saints host the Lions in a huge clash at Marvel Stadium.</desc>
+  <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
+    <title>Canterbury vs Newcastle</title>
+    <desc>Super Saturday kicks off with the hosts looking to retain their undefeated record in 2026 &amp; extend their winning streak against the visitors to four.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-1" start="20260328080000 +0000" stop="20260328134000 +0000">
-    <title>Essendon Bombers vs North Melbourne Kangaroos</title>
-    <desc>It’s been ten years since North has beaten the Bombers, and rarely has there been a more important game as both clubs meet at Marvel Stadium.</desc>
+  <programme channel="kayo-uhd-3" start="20260328070500 +0000" stop="20260328093500 +0000">
+    <title>Penrith vs Parramatta</title>
+    <desc>These fierce rivals are in form heading into the 114th Western Sydney Derby.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260328093500 +0000" stop="20260328125000 +0000">
+    <title>North Queensland vs Melbourne</title>
+    <desc>The hosts will be buoyant after a breakthrough win, while the visitors will be stinging after blowing a 14-point lead to suffer their first loss.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260329070000 +0000" stop="20260329103500 +0000">
+    <title>Gold Coast Titans vs St George Illawarra</title>
+    <desc>Extra intensity for Round 4&apos;s final clash, with both teams chasing their first victory of the season.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260404060000 +0000" stop="20260404093500 +0000">
+    <title>St George Illawarra vs North Queensland</title>
+    <desc>Watch Round 5 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260405030000 +0000" stop="20260405070500 +0000">
+    <title>Cronulla vs Warriors</title>
+    <desc>Watch Round 5 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260410070000 +0000" stop="20260410110500 +0000">
+    <title>St George Illawarra vs Manly</title>
+    <desc>Watch Round 6 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-3" start="20260411043000 +0000" stop="20260411080500 +0000">
+    <title>South Sydney vs Canberra</title>
+    <desc>Watch Round 6 of the NRL on Kayo.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-1" start="20260328050006 +0000" stop="20260328091006 +0000">
+    <title>Fremantle Dockers vs Richmond Tigers</title>
+    <desc>The Tigers head west to face the Dockers at Optus Stadium.</desc>
     <category>Sport</category>
   </programme>
   <programme channel="kayo-uhd-1" start="20260329010000 +0000" stop="20260329052000 +0000">
@@ -80,82 +115,17 @@
     <desc>The Pies host the Dockers in Round 5.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-1" start="20260411020000 +0000" stop="20260411064500 +0000">
+  <programme channel="kayo-uhd-1" start="20260411020000 +0000" stop="20260411060000 +0000">
     <title>North Melbourne Kangaroos vs Brisbane Lions</title>
     <desc>The Lions travel to face the Roos in Round 5.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260328033000 +0000" stop="20260328070500 +0000">
-    <title>Canterbury vs Newcastle</title>
-    <desc>Super Saturday kicks off with the hosts looking to retain their undefeated record in 2026 &amp; extend their winning streak against the visitors to four.</desc>
+  <programme channel="kayo-uhd-1" start="20260411060000 +0000" stop="20260411104000 +0000">
+    <title>Sydney Swans vs Gold Coast Suns</title>
+    <desc>The Swans welcome the Suns to the SCG in Round 5.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-3" start="20260328070500 +0000" stop="20260328093500 +0000">
-    <title>Penrith vs Parramatta</title>
-    <desc>These fierce rivals are in form heading into the 114th Western Sydney Derby.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260328093500 +0000" stop="20260328125000 +0000">
-    <title>North Queensland vs Melbourne</title>
-    <desc>The hosts will be buoyant after a breakthrough win, while the visitors will be stinging after blowing a 14-point lead to suffer their first loss.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260329070000 +0000" stop="20260329103500 +0000">
-    <title>Gold Coast Titans vs St George Illawarra</title>
-    <desc>Extra intensity for Round 4&apos;s final clash, with both teams chasing their first victory of the season.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260404060000 +0000" stop="20260404093500 +0000">
-    <title>St George Illawarra vs North Queensland</title>
-    <desc>Watch Round 5 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260405030000 +0000" stop="20260405070500 +0000">
-    <title>Cronulla vs Warriors</title>
-    <desc>Watch Round 5 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260410070000 +0000" stop="20260410110500 +0000">
-    <title>St George Illawarra vs Manly</title>
-    <desc>Watch Round 6 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-3" start="20260411043000 +0000" stop="20260411080500 +0000">
-    <title>South Sydney vs Canberra</title>
-    <desc>Watch Round 6 of the NRL on Kayo.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-2" start="20260328050000 +0000" stop="20260328091000 +0000">
-    <title>Fremantle Dockers vs Richmond Tigers</title>
-    <desc>The Tigers head west to face the Dockers at Optus Stadium.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-2" start="20260329041000 +0000" stop="20260329091000 +0000">
-    <title>Carlton Blues vs Melbourne Demons</title>
-    <desc>Demons captain Max Gawn plays his 250th game against the Blues at the MCG.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-2" start="20260403071500 +0000" stop="20260403131000 +0000">
-    <title>Adelaide Crows vs Fremantle Dockers</title>
-    <desc>The Crows and Dockers face off in Round 4.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-2" start="20260404080000 +0000" stop="20260404124000 +0000">
-    <title>West Coast Eagles vs Sydney Swans</title>
-    <desc>Old rivals West Coast and Sydney meet in Round 4.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-2" start="20260405083000 +0000" stop="20260405141000 +0000">
-    <title>Western Bulldogs vs Essendon Bombers</title>
-    <desc>The Dogs meet the Bombers in Round 4.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-2" start="20260411023000 +0000" stop="20260411071000 +0000">
-    <title>Essendon Bombers vs Melbourne Demons</title>
-    <desc>The Bombers and Dees collide in Round 5.</desc>
-    <category>Sport</category>
-  </programme>
-  <programme channel="kayo-uhd-4" start="20260328050000 +0000" stop="20260328094000 +0000">
+  <programme channel="kayo-uhd-4" start="20260328050006 +0000" stop="20260328094006 +0000">
     <title>Japanese Grand Prix</title>
     <desc>Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
     <category>Sport</category>
@@ -165,7 +135,7 @@
     <desc>Mercedes arrives in dominant form, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season.</desc>
     <category>Sport</category>
   </programme>
-  <programme channel="kayo-uhd-5" start="20260328053000 +0000" stop="20260328074500 +0000">
+  <programme channel="kayo-uhd-5" start="20260328052950 +0000" stop="20260328074500 +0000">
     <title>Mavericks vs Melbourne Vixens</title>
     <desc>The first Melbourne derby of the season sees the Mavericks and Vixens clash at John Cain Arena.</desc>
     <category>Sport</category>
@@ -203,6 +173,36 @@
   <programme channel="kayo-uhd-5" start="20260405054500 +0000" stop="20260405085500 +0000">
     <title>Melbourne Vixens vs Sunshine Coast Lightning</title>
     <desc>The Vixens host the Lightning in Melbourne.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260328080000 +0000" stop="20260328134000 +0000">
+    <title>Essendon Bombers vs North Melbourne Kangaroos</title>
+    <desc>It’s been ten years since North has beaten the Bombers, and rarely has there been a more important game as both clubs meet at Marvel Stadium.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260329041000 +0000" stop="20260329091000 +0000">
+    <title>Carlton Blues vs Melbourne Demons</title>
+    <desc>Demons captain Max Gawn plays his 250th game against the Blues at the MCG.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260403071500 +0000" stop="20260403131000 +0000">
+    <title>Adelaide Crows vs Fremantle Dockers</title>
+    <desc>The Crows and Dockers face off in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260404080000 +0000" stop="20260404124000 +0000">
+    <title>West Coast Eagles vs Sydney Swans</title>
+    <desc>Old rivals West Coast and Sydney meet in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260405083000 +0000" stop="20260405141000 +0000">
+    <title>Western Bulldogs vs Essendon Bombers</title>
+    <desc>The Dogs meet the Bombers in Round 4.</desc>
+    <category>Sport</category>
+  </programme>
+  <programme channel="kayo-uhd-2" start="20260411023000 +0000" stop="20260411071000 +0000">
+    <title>Essendon Bombers vs Melbourne Demons</title>
+    <desc>The Bombers and Dees collide in Round 5.</desc>
     <category>Sport</category>
   </programme>
 </tv>
