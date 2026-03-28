@@ -80,6 +80,11 @@
     <desc>The Pies host the Dockers in Round 5.</desc>
     <category>Sport</category>
   </programme>
+  <programme channel="kayo-uhd-1" start="20260411020000 +0000" stop="20260411064500 +0000">
+    <title>North Melbourne Kangaroos vs Brisbane Lions</title>
+    <desc>The Lions travel to face the Roos in Round 5.</desc>
+    <category>Sport</category>
+  </programme>
   <programme channel="kayo-uhd-4" start="20260328021500 +0000" stop="20260328045500 +0000">
     <title>Japanese Grand Prix</title>
     <desc>The final practice session gets underway at Suzuka ahead of the all-important qualifying session.</desc>
